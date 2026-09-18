@@ -1,0 +1,6 @@
+### S52 해피엔딩처럼 보이지만, 1980년대로 시간이 넘어가며 오만함의 그림자가 드리운다
+- 시간: 8:37-8:46
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S52.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A grand, shining Coca-Cola bottle-shaped castle stands proudly under sunny skies, but a dark ominous shadow slowly creeps across it from one side as a calendar page flips to show a stylized '1980년대' backdrop. Setting: the grand Coca-Cola bottle-shaped castle silhouetted under a darkening sky.
+- 영상: Camera slowly pans as the dark shadow creeps further across the shining castle.
+

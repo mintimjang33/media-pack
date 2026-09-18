@@ -1,0 +1,115 @@
+{
+ "ratio": "9:16",
+ "style": "Photoreal cinematic engineering documentary photograph, vertical 9:16 composition, Korean expressway tunnel, muted natural colours, soft overcast daylight, deep foreground-midground-background separation, shot on 35mm film, quiet uncluttered realism, plain smooth bare concrete surfaces throughout.",
+ "ref_hint": "Match the reference image exactly for camera style, colour grade, concrete texture, road markings and overall look. Same tunnel, same day.",
+ "images": [
+  {
+   "id": "IMG01",
+   "anchor": true,
+   "prompt": "A Korean expressway tunnel portal seen head-on from the middle of the empty road, mid-afternoon. The grey concrete portal and the road surface in front of it are brightly sunlit. The tunnel mouth itself reads as a deep dark opening. Wooded hillside above the portal, plain overcast sky at the top of the frame."
+  },
+  {
+   "id": "IMG02",
+   "prompt": "Close approach to the same tunnel portal, looking slightly upward at the entrance ceiling where a dense row of rectangular luminaires runs into the tunnel, each fixture clearly lit and glowing warm white against grey concrete."
+  },
+  {
+   "id": "IMG03",
+   "prompt": "The open expressway approach outside the same tunnel on a clear day, low camera over the sunlit asphalt, white lane markings glaring in strong daylight, bright guardrail and grass shoulder, the tunnel portal small in the distance."
+  },
+  {
+   "id": "IMG04",
+   "prompt": "Deep inside the same tunnel, far from either portal, a long dim concrete bore with only a sparse line of ceiling luminaires fading into the distance, the road surface barely picked out."
+  },
+  {
+   "id": "IMG06",
+   "prompt": "Driver's point of view through a car windscreen on the same expressway, the sunlit road filling the lower frame and the tunnel mouth directly ahead reading as a flat black rectangle with no interior detail visible."
+  },
+  {
+   "id": "IMG07",
+   "prompt": "The same tunnel portal seen head-on from outside in bright daylight, the interior luminaires switched on deep inside, yet the mouth still reads dark against the sunlit concrete facade."
+  },
+  {
+   "id": "IMG08",
+   "prompt": "Interior view from just inside the same tunnel portal looking straight down the bore, the road running away to a small distant point of light, both concrete side walls receding symmetrically into perspective with the ceiling arch above, deep even shadow across the whole frame, nothing in the foreground."
+  },
+  {
+   "id": "IMG09",
+   "prompt": "The interior of the same tunnel lit uniformly to full daylight level from end to end, every ceiling luminaire burning, walls and road surface evenly bright, the far end still visible as a bright corridor."
+  },
+  {
+   "id": "IMG10",
+   "prompt": "A tunnel service alcove beside the same road, grey steel cabinets and thick cable trays running along the concrete wall, heavy conduit and busbar terminations, industrial and utilitarian."
+  },
+  {
+   "id": "IMG11",
+   "prompt": "Interior of the same tunnel looking along the ceiling line, the luminaires packed tightly together near the entrance and spacing out progressively toward the far dim interior, the change in density clearly readable."
+  },
+  {
+   "id": "IMG12",
+   "prompt": "The entrance section of the same tunnel from inside looking back toward the portal, the ceiling and walls of this first stretch flooded with dense bright light, the sunlit opening framed beyond."
+  },
+  {
+   "id": "IMG13",
+   "prompt": "Looking toward the far portal from inside the same dim tunnel, the exit reading as an intensely bright white opening at the end of the dark bore, walls silhouetted around it."
+  },
+  {
+   "id": "IMG14",
+   "prompt": "The same tunnel portal at night, the surrounding road and hillside dark, only a modest number of entrance luminaires lit, the interior a calm even glow."
+  },
+  {
+   "id": "IMG15",
+   "prompt": "Wide long shot of the same tunnel portal from a distance across the valley in daylight, the expressway curving toward it, the entrance lighting clearly visible as a warm band inside the mouth even in full sun."
+  }
+ ],
+ "clips": [
+  {
+   "id": "CLIP01",
+   "image_id": "IMG02",
+   "seconds": 4,
+   "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. The camera drifts forward very slightly toward the tunnel portal."
+  },
+  {
+   "id": "CLIP02",
+   "image_id": "IMG06",
+   "seconds": 4,
+   "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. The car creeps forward on the road; the dark tunnel mouth grows slowly in the windscreen."
+  },
+  {
+   "id": "CLIP03",
+   "image_id": "IMG07",
+   "seconds": 4,
+   "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A slow push in toward the portal; the interior stays dark while the sunlit concrete face holds."
+  },
+  {
+   "id": "CLIP04",
+   "image_id": "IMG09",
+   "seconds": 4,
+   "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A slow dolly forward down the brightly lit bore, the ceiling luminaires passing overhead."
+  },
+  {
+   "id": "CLIP05",
+   "image_id": "IMG11",
+   "seconds": 4,
+   "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A slow dolly forward along the ceiling line, the packed luminaires near the camera thinning out ahead."
+  },
+  {
+   "id": "CLIP06",
+   "image_id": "IMG12",
+   "seconds": 4,
+   "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A slow dolly backward from the bright entrance stretch toward the sunlit opening beyond."
+  },
+  {
+   "id": "CLIP07",
+   "image_id": "IMG15",
+   "seconds": 4,
+   "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A very slow drift across the valley view, the tunnel portal holding in frame."
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "ratio": "16:9",
+ "video_ratio": "16:9",
+ "style": "Korean webtoon style illustration, clean vector line art, flat colors, dynamic and lively energy, minimalist and expressive.",
+ "images": [
+  {
+   "id": "S01_COLDOPEN",
+   "section": "콜드오픈",
+   "kind": "hand",
+   "desc": "손 클로즈업 — 서류 서명, $300",
+   "prompt": "Close-up of a weathered hand holding an antique fountain pen, signing a yellowed contract on a worn wooden desk. The number \"$300\" is written large at the bottom of the page. Warm sepia-toned light through a window, dust particles in the light beam, cinematic composition, no face visible."
+  },
+  {
+   "id": "S02_OPENING",
+   "section": "오프닝",
+   "kind": "host",
+   "desc": "젠틀맨 루즈가 시청자에게 직접 말을 거는 오프닝",
+   "prompt": "THE GENTLEMAN ROUGE: a stick figure character with a round pale cream-white face, a neat curled black mustache, a round gold-rimmed monocle over one eye held by a thin gold chain, a black top hat, a black tailcoat with white gloves, and a long black cape lined with deep gold draped over the shoulders, often holding a cane. standing confidently, one hand gesturing outward toward the viewer as if addressing them directly, cane in the other hand. Plain simple background with a glowing rising stock chart graphic behind him. Chin lifted, sly confident smile."
+  },
+  {
+   "id": "S03_ANDES",
+   "section": "1장",
+   "kind": "object",
+   "desc": "안데스 산맥, 코카 잎 (캐릭터 없음)",
+   "prompt": "A stylized illustration of the Andes mountain range at dusk, a cluster of green coca leaves in the foreground, warm earthy green and brown gradient, no characters, simple flat vector illustration."
+  },
+  {
+   "id": "S04_CHEMLAB",
+   "section": "1장",
+   "kind": "hand",
+   "desc": "손 클로즈업 — 화학자가 결정 가루를 분리",
+   "prompt": "Close-up of a hand holding a small glass vial of white crystalline powder over a 19th century laboratory workbench, glass beakers around it, a handwritten label beside it, candlelight, no face visible."
+  },
+  {
+   "id": "S05_SURGERY",
+   "section": "1장",
+   "kind": "object",
+   "desc": "의료 상징물 (캐릭터 없음)",
+   "prompt": "A simple flat vector icon illustration of an antique glass dropper bottle beside a stylized eye symbol, warm golden glow, vintage medical illustration style, no characters."
+  },
+  {
+   "id": "S06_BIRTH",
+   "section": "2장",
+   "kind": "hand",
+   "desc": "손 클로즈업 — 펨버턴이 재료를 섞음(병 탄생 직전)",
+   "prompt": "Close-up of a pharmacist's hands mixing ingredients into a plain glass bottle on an old wooden apothecary counter lined with other bottles, warm afternoon light, no face visible."
+  },
+  {
+   "id": "S07_BOTTLEBORN",
+   "section": "2장",
+   "kind": "bottle",
+   "desc": "의인화된 코카콜라 병 탄생 — 첫 등장",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. The bottle looks small, plain, and a little unsure of itself, standing shyly on a wooden pharmacy counter next to a few coins, warm sepia tone background, simple humble pose."
+  },
+  {
+   "id": "S08_CONTRACT300",
+   "section": "2장",
+   "kind": "hand",
+   "desc": "손 클로즈업 — $300 계약 (콜드오픈 회수)",
+   "prompt": "Close-up of a hand sliding a signed contract across a wooden desk, the number \"$300\" visible at the bottom, matching the cold open composition, warm sepia lighting, no face visible."
+  },
+  {
+   "id": "S09_CANDLER",
+   "section": "3장",
+   "kind": "host",
+   "desc": "젠틀맨 루즈가 사업가 캔들러의 등장을 설명",
+   "prompt": "THE GENTLEMAN ROUGE: a stick figure character with a round pale cream-white face, a neat curled black mustache, a round gold-rimmed monocle over one eye held by a thin gold chain, a black top hat, a black tailcoat with white gloves, and a long black cape lined with deep gold draped over the shoulders, often holding a cane. standing beside a glowing rising bar chart, one hand pointing at it with interest, cane tucked under the other arm, plain simple background."
+  },
+  {
+   "id": "S10_BOTTLEGROW",
+   "section": "3장",
+   "kind": "bottle",
+   "desc": "병 캐릭터가 성장 — 자신감 붙은 자세",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. The bottle now stands taller and more confidently, one arm raised in a small triumphant gesture, a simple elegant cursive-style flourish label on its front, warm golden light."
+  },
+  {
+   "id": "S11_BOTTLECONFUSE",
+   "section": "4장",
+   "kind": "bottle",
+   "desc": "비슷한 병들 사이에서 혼란",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. standing among several other plain bottle shapes that look nearly identical, a confused expression, small question marks floating above, dim tavern background tone."
+  },
+  {
+   "id": "S12_BOTTLECURVE",
+   "section": "4장",
+   "kind": "bottle",
+   "desc": "곡선 병으로 변신 — 자신감 있는 포즈",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. now redesigned with a distinctive curvy hourglass-shaped body, standing proudly with both hands on hip, a spotlight on it in darkness, confident glowing pose."
+  },
+  {
+   "id": "S13_SANTA",
+   "section": "4장",
+   "kind": "object",
+   "desc": "산타 아이콘 (캐릭터 없음)",
+   "prompt": "A simple flat vector illustration of a classic Santa Claus figure in a red suit holding an amber glass bottle, warm winter red and white color palette, vintage advertisement poster style, no other characters."
+  },
+  {
+   "id": "S14_BLINDTEST",
+   "section": "5장",
+   "kind": "bottle",
+   "desc": "병 캐릭터, 블라인드 테스트에 불안해함",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. looking nervous, one hand touching its own cork-stopper head, watching two unmarked cups on a table beside it, dim blue TV-lit background."
+  },
+  {
+   "id": "S15_PROTEST",
+   "section": "5장",
+   "kind": "object",
+   "desc": "항의 편지·시위 팻말 더미 (캐릭터 없음)",
+   "prompt": "A pile of angry handwritten letters and simple protest signs scattered on a street, dark red alert color tones, no characters, flat vector illustration."
+  },
+  {
+   "id": "S16_RELIEF",
+   "section": "5장",
+   "kind": "bottle",
+   "desc": "병 캐릭터, 안도하며 복귀",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. smiling with relief, wiping its cork-stopper forehead with one hand, standing back on a store shelf, warm golden light."
+  },
+  {
+   "id": "S17_RIVALRY",
+   "section": "6장",
+   "kind": "bottle",
+   "desc": "코카콜라 병 vs 펩시 캔, 라이벌 구도",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. standing arms crossed facing off against a similarly cartoonish anthropomorphized soda can character with a bold red and blue label, small lightning bolt accents between them, dramatic split red-blue lighting."
+  },
+  {
+   "id": "S18_BANKRUPT",
+   "section": "6장",
+   "kind": "object",
+   "desc": "파산 서류 더미 (캐릭터 없음)",
+   "prompt": "A stack of old legal documents stamped \"REJECTED\" in red twice, dim navy financial-crisis color tones, no characters, flat vector illustration."
+  },
+  {
+   "id": "S19_GLOBALSCALE",
+   "section": "7장",
+   "kind": "bottle",
+   "desc": "병 캐릭터, 세계 지도 앞에서 환호",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. with both arms raised high in celebration, standing in front of a glowing world map covered in small light points, golden triumphant color palette."
+  },
+  {
+   "id": "S20_TICKER",
+   "section": "7장",
+   "kind": "host",
+   "desc": "젠틀맨 루즈가 시가총액 숫자를 소개",
+   "prompt": "THE GENTLEMAN ROUGE: a stick figure character with a round pale cream-white face, a neat curled black mustache, a round gold-rimmed monocle over one eye held by a thin gold chain, a black top hat, a black tailcoat with white gloves, and a long black cape lined with deep gold draped over the shoulders, often holding a cane. gesturing toward a large glowing stock ticker graphic showing rising numbers reaching \"$380B\", confident pointing pose, plain background."
+  },
+  {
+   "id": "S21_FANTA",
+   "section": "8장",
+   "kind": "bottle",
+   "desc": "환타 병(사촌 캐릭터) 탄생",
+   "prompt": "An anthropomorphized green glass soda bottle character, similar simple stick-figure design with dot eyes and a curved line mouth, looking freshly made on a wartime factory production line, industrial muted orange and grey tones."
+  },
+  {
+   "id": "S22_SPACE",
+   "section": "8장",
+   "kind": "bottle",
+   "desc": "병 캐릭터, 우주 비행",
+   "prompt": "an anthropomorphized old-fashioned amber glass soda bottle character with simple stick arms and legs, a cork stopper on top like a hat, two simple round dot eyes and a small curved line mouth printed on the front where a label would be. wearing a small round astronaut helmet, floating happily among stars with a spacecraft window in the background, deep space navy color palette."
+  },
+  {
+   "id": "S23_COCALEAF",
+   "section": "8장",
+   "kind": "object",
+   "desc": "코카 잎 수입 서류 (캐릭터 없음)",
+   "prompt": "A simple flat vector illustration of an official import stamp on a legal document beside a small coca leaf icon, neutral warm beige tones, no characters."
+  },
+  {
+   "id": "S24_INVESTOR",
+   "section": "8장",
+   "kind": "host",
+   "desc": "젠틀맨 루즈가 대주주 이야기를 소개",
+   "prompt": "THE GENTLEMAN ROUGE: a stick figure character with a round pale cream-white face, a neat curled black mustache, a round gold-rimmed monocle over one eye held by a thin gold chain, a black top hat, a black tailcoat with white gloves, and a long black cape lined with deep gold draped over the shoulders, often holding a cane. standing beside a rising stock chart display, one hand on the chart, informative confident pose, plain background."
+  },
+  {
+   "id": "S25_CLOSING",
+   "section": "클로징",
+   "kind": "host",
+   "desc": "젠틀맨 루즈, 망토를 젖히며 마무리(시그니처 리빌)",
+   "prompt": "THE GENTLEMAN ROUGE: a stick figure character with a round pale cream-white face, a neat curled black mustache, a round gold-rimmed monocle over one eye held by a thin gold chain, a black top hat, a black tailcoat with white gloves, and a long black cape lined with deep gold draped over the shoulders, often holding a cane. in a dramatic pose flipping open the cape with one arm, the gold lining flashing brightly, the small anthropomorphized coke bottle character standing proudly beside him, warm triumphant golden lighting, confident closing pose."
+  }
+ ]
+}

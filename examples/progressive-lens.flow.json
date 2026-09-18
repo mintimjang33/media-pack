@@ -1,0 +1,59 @@
+{
+ "_doc": "EP03 다초점 렌즈 — flow-media 잡. 앵커 1장 → 나머지 참조 물림. ★부정문 금지.",
+ "ratio": "9:16",
+ "style": "Photoreal cinematic macro photograph, vertical 9:16 composition, optical laboratory subject on a dark neutral surface, soft directional key light with a clean falloff, shallow depth of field, muted cool colours, shot on 35mm, quiet uncluttered realism.",
+ "ref_hint": "Match the reference image exactly for lighting direction, colour grade, background surface and overall look. Same studio, same session.",
+ "images": [
+  {"id": "IMG01", "anchor": true,
+   "prompt": "A single modern spectacle lens standing upright on a dark matte surface, lit from one side so the curved face catches a long soft highlight, the lens edge clearly visible as a thin bright line, plenty of empty dark space above."},
+
+  {"id": "IMG02",
+   "prompt": "A pair of thin-rimmed reading glasses lying open on a printed page on the same dark surface, the printed lines beneath the lenses rendered soft and unreadable while the page beyond stays crisp."},
+
+  {"id": "IMG03",
+   "prompt": "Macro view of an older bifocal lens on the same surface, the small D-shaped reading segment near the bottom edge showing a hard visible boundary line across the glass."},
+
+  {"id": "IMG04",
+   "prompt": "The same bifocal lens tilted so the segment boundary catches the key light as a sharp bright seam running across the lens, the two zones on either side of it reflecting at visibly different angles."},
+
+  {"id": "IMG05",
+   "prompt": "A progressive lens photographed edge-on against the dark background, its cross-section thickening smoothly and continuously from the top edge toward the bottom, the profile line reading as one unbroken curve."},
+
+  {"id": "IMG06",
+   "prompt": "Looking straight through a progressive lens resting above a printed grid of fine squares, the grid sharp through a narrow vertical band down the middle and progressively smeared and bent toward both left and right edges."},
+
+  {"id": "IMG07",
+   "prompt": "A short row of circular lens blanks of increasing curvature standing on edge on the dark surface, each one bulging a little more than the one before, raking light along the row."},
+
+  {"id": "IMG08",
+   "prompt": "An optical surfacing machine at work, a diamond tool cutting a fine spiral track across a spinning lens blank, coolant misting, industrial and precise."},
+
+  {"id": "IMG09",
+   "prompt": "A finished progressive lens seated in a thin metal frame, front view on the dark surface, the whole surface clean and even with a single soft reflection curving across it."},
+
+  {"id": "IMG10",
+   "prompt": "A concrete staircase seen looking down from the top step, the treads receding sharply below, cool overcast light, the lower steps falling into shadow."},
+
+  {"id": "IMG11",
+   "prompt": "Three progressive lenses in a row on the dark surface, each with a visibly narrower clear vertical band down its centre than the one before, the surrounding areas showing stronger reflected distortion."},
+
+  {"id": "IMG12",
+   "prompt": "Closing shot: the thin-rimmed glasses folded on the dark surface, one soft light from the side, long quiet shadow, generous empty space around them."}
+ ],
+ "clips": [
+  {"id": "CLIP01", "image_id": "IMG01", "seconds": 4, "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. The key light drifts a few degrees so the highlight travels slowly along the curved lens face."},
+  {"id": "CLIP02", "image_id": "IMG02", "seconds": 4, "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A very slow push in toward the lens resting on the page."},
+  {"id": "CLIP03", "image_id": "IMG03", "seconds": 4, "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. The camera drifts slowly sideways across the segment boundary."},
+  {"id": "CLIP04", "image_id": "IMG05", "seconds": 4, "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A slow dolly along the lens edge from its thin top toward its thicker bottom."},
+  {"id": "CLIP05", "image_id": "IMG06", "seconds": 4, "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A very slow drift across the grid, the clear middle band staying put while the smeared edges pass through frame."},
+  {"id": "CLIP06", "image_id": "IMG09", "seconds": 4, "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. The framed lens turns a few degrees so the soft reflection sweeps across its surface."},
+  {"id": "CLIP07", "image_id": "IMG12", "seconds": 4, "res": "720p",
+   "prompt": "Live-action documentary footage, one continuous locked-off shot. The scene holds exactly as in the first frame. A very slow drift back from the folded glasses, the shadow lengthening slightly."}
+ ]
+}

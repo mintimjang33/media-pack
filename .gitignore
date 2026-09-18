@@ -1,0 +1,21 @@
+# 비밀값
+.env.local
+
+# 디버그용 스크린샷(루트에 쌓인 것들) — 개발 중 진단용, 코드 아님
+/_*.png
+
+# 실행 산출물 — 재생성 가능, 용량 크고 저장소에 올릴 필요 없음
+examples-economics-newstyle/
+examples-economics/
+character-sheet/output/
+character-sheet/_shots/
+coca-cola-episode/*/_shots/
+*/output/
+
+# Python/Node 캐시
+__pycache__/
+*.pyc
+node_modules/
+
+# Flow 자동화 크롬 프로필 로컬 락 파일
+flow_econ_locks/

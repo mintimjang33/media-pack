@@ -1,0 +1,17 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>진행 상황</title>
+<style>
+  html,body{margin:0;padding:0;height:100%;background:#111}
+  #bar{display:flex;background:#181818;padding:6px 8px;border-bottom:1px solid #2a2a2a}
+  #goFlow{background:#275;color:#eee;border:none;border-radius:6px;padding:6px 10px;font-size:12px;font-weight:700;cursor:pointer;width:100%}
+  #goFlow:hover{background:#386}
+  #refresh{background:#333;color:#eee;border:none;border-radius:6px;padding:6px 10px;font-size:12px;font-weight:700;cursor:pointer;margin-left:6px}
+  #refresh:hover{background:#444}
+  iframe{border:0;width:100%;height:calc(100% - 40px)}
+</style>
+</head>
+<body>
+  <div id="bar"><button id="goFlow">🔗 Flow로 이동</button><button id="refresh" title="대시보드 다시 불러오기">🔄</button></div>
+  <iframe id="dash" src="http://127.0.0.1:8799/"></iframe>
+<script src="panel.js"></script>
+</body></html>

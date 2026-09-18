@@ -1,0 +1,80 @@
+{
+  "ratio": "16:9",
+  "video_ratio": "16:9",
+  "images": [
+    {"id": "HIST_ANCHOR", "anchor": true, "section": "콜드오픈",
+     "prompt": "Antique fountain pen signing a yellowed contract on a worn wooden desk, close-up on the number \"$300\" written at the bottom of the page, warm sepia-toned light streaming through a window, dust particles visible in the light beam, cinematic documentary photography, shallow depth of field"},
+
+    {"id": "MODERN_ANCHOR", "anchor": true, "section": "오프닝",
+     "prompt": "A glowing convenience store refrigerator at night, red soda cans visible through the glass door, modern stock market ticker graphic style overlay, cool blue and red lighting, cinematic documentary photography, shallow depth of field"},
+
+    {"id": "S03_ANDES", "ref": "HIST_ANCHOR", "section": "1장",
+     "prompt": "Andes mountain range at dusk, an indigenous man in traditional clothing chewing coca leaves, sepia-toned documentary illustration style, distant mountain peaks receding into perspective"},
+
+    {"id": "S04_LAB", "ref": "HIST_ANCHOR", "section": "1장",
+     "prompt": "19th century European chemistry laboratory, glass vials and a small jar of white crystalline powder on a wooden workbench, a handwritten paper label beside it, candlelight, brass instruments"},
+
+    {"id": "S05_SURGERY", "ref": "HIST_ANCHOR", "section": "1장",
+     "prompt": "Vintage 1880s operating room, a doctor's hand holding a small glass dropper bottle near a patient's eye, antique medical instruments laid on a cloth tray, dim clinical lighting"},
+
+    {"id": "S06_PHARMACY", "ref": "HIST_ANCHOR", "section": "2장",
+     "prompt": "A pharmacist in a white coat standing behind an old wooden apothecary counter lined with glass bottles, 1880s Atlanta pharmacy interior, warm afternoon light through a front window"},
+
+    {"id": "S07_FOUNTAIN", "ref": "HIST_ANCHOR", "section": "2장",
+     "prompt": "Close-up of a hand pouring dark syrup from a brass soda fountain spigot into a glass, six coins lined up neatly on the wooden counter beside it, warm interior light"},
+
+    {"id": "S08_CONTRACT", "ref": "HIST_ANCHOR", "section": "2장",
+     "prompt": "A weathered hand sliding a signed contract across a wooden desk toward another person, the number \"$300\" visible at the bottom of the page, warm sepia lighting, matching an earlier close-up of the same desk"},
+
+    {"id": "S09_SPLIT", "ref": "HIST_ANCHOR", "section": "3장",
+     "prompt": "Split composition photograph, left half a black and white figure of a pharmacist, right half a full color figure of a businessman in a suit standing at a ledger desk, dramatic lighting divide down the middle"},
+
+    {"id": "S10_LOGO", "ref": "HIST_ANCHOR", "section": "3장",
+     "prompt": "Close-up of a hand dipping a fountain pen into an inkwell and writing elegant flowing cursive letters on paper, 1887 style handwriting, warm desk lamp light"},
+
+    {"id": "S11_BOTTLES", "ref": "HIST_ANCHOR", "section": "4장",
+     "prompt": "A dim tavern bar counter at night with several similarly shaped glass soda bottles lined up together, blurred patrons in the background, warm low light"},
+
+    {"id": "S12_DARKID", "ref": "HIST_ANCHOR", "section": "4장",
+     "prompt": "A single curved glass bottle silhouette being identified by touch in near darkness, a hand wrapped around its distinctive ridged shape, one thin beam of light"},
+
+    {"id": "S13_SANTA", "ref": "HIST_ANCHOR", "section": "4장",
+     "prompt": "A 1930s style vintage advertisement painting of Santa Claus in a red suit holding a soda bottle, warm winter lighting, illustrated poster art style"},
+
+    {"id": "S14_BLINDTEST", "ref": "HIST_ANCHOR", "section": "5장",
+     "prompt": "A 1980s television studio monitor showing a blind taste test with two unmarked paper cups side by side, retro broadcast graphic overlay style, studio lighting"},
+
+    {"id": "S15_PROTEST", "ref": "HIST_ANCHOR", "section": "5장",
+     "prompt": "A crowd of protesters holding handmade signs on a city street, 1980s clothing style, overcast daylight, documentary photojournalism style"},
+
+    {"id": "S16_RELIEF", "ref": "HIST_ANCHOR", "section": "5장",
+     "prompt": "A classic curved glass soda bottle being placed back onto a grocery store shelf by a hand, warm store lighting, other bottles visible on the shelf"},
+
+    {"id": "S17_RIVALRY", "ref": "HIST_ANCHOR", "section": "6장",
+     "prompt": "Two glass soda bottles standing side by side on a counter, one with an elegant flowing cursive label, one with a bold red and blue label, dramatic side lighting creating strong shadows"},
+
+    {"id": "S18_BANKRUPT", "ref": "HIST_ANCHOR", "section": "6장",
+     "prompt": "A stack of old legal documents tied with string on a desk beside a vintage glass soda bottle, dim office lighting, dust on the papers"},
+
+    {"id": "S19_WORLDMAP", "ref": "MODERN_ANCHOR", "section": "7장",
+     "prompt": "A glowing world map data visualization with hundreds of small light points appearing across every continent, dark background, modern infographic style"},
+
+    {"id": "S20_TICKER", "ref": "MODERN_ANCHOR", "section": "7장",
+     "prompt": "A stock ticker board with rapidly climbing numbers reaching 380 billion dollars, trading floor screens glowing in the background, modern financial district lighting"},
+
+    {"id": "S21_FANTA", "ref": "HIST_ANCHOR", "section": "8장",
+     "prompt": "A green glass bottle being filled on a 1940s era factory production line, industrial machinery, German factory interior, documentary lighting"},
+
+    {"id": "S22_SPACE", "ref": "MODERN_ANCHOR", "section": "8장",
+     "prompt": "An astronaut's gloved hand holding a specially designed soda can, a spacecraft window with stars visible in the background, cool cabin lighting"},
+
+    {"id": "S23_CUSTOMS", "ref": "MODERN_ANCHOR", "section": "8장",
+     "prompt": "A customs warehouse interior with wooden shipping crates and official import stamps on paperwork on a clipboard, dim industrial lighting"},
+
+    {"id": "S24_INVESTOR", "ref": "MODERN_ANCHOR", "section": "8장",
+     "prompt": "An elderly investor silhouette standing before a large rising stock chart display on a wall screen, confident stance, modern office lighting"},
+
+    {"id": "S25_CLOSING", "ref": "HIST_ANCHOR", "section": "클로징",
+     "prompt": "A split image, one half showing an antique contract being signed in warm sepia tone, the other half a modern red soda can under cool lighting, composited side by side"}
+  ]
+}

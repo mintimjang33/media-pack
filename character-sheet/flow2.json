@@ -1,0 +1,10 @@
+{
+  "ratio": "16:9",
+  "images": [
+    {
+      "id": "CAST_REF",
+      "anchor": true,
+      "prompt": "Character reference sheet, a supporting cast figure cut out like an old sepia newspaper clipping: a normal round-ish human head and simple stick-figure body, but rendered with the texture of aged yellowed newspaper paper, halftone print dot pattern visible on the skin and clothes, sepia and grey tones only, edges of the whole figure look slightly torn like a real clipping cut from a newspaper page with faded print text visible at the torn edges. Plain simple clothing, neutral standing pose, arms at sides, plain light grey background. Character design reference sheet layout, single figure, clean presentation, minimalist vector line work combined with the newspaper paper texture."
+    }
+  ]
+}

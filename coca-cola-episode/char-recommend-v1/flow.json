@@ -1,0 +1,17 @@
+{
+  "ratio": "16:9",
+  "images": [
+    {
+      "id": "PEMBERTON_BOTTLE",
+      "prompt": "Korean webtoon style illustration. An anthropomorphized 19th-century vintage dark brown apothecary glass bottle character. Character has simple stick-figure arms and legs, simple black dot eyes, and a woozy, slightly intoxicated, heavy expression with a vintage cork stopper sitting on its head like a hat. Wearing a small neat pharmacist's bow tie. Texture of the character's surface itself is thick, dark vintage brown glass with a matte, slightly dusty finish. Plain solid grey background, clean studio character reference lighting. Clean line art, flat colors, vector-style graphics, minimalist Korean webtoon aesthetic. IMPORTANT: absolutely NO text, no captions, no title, no labels anywhere in the image."
+    },
+    {
+      "id": "SODA_FOUNTAIN_GLASS",
+      "prompt": "Korean webtoon style illustration. An anthropomorphized classic bell-shaped soda fountain glass filled with dark brown liquid and sparkling bubbles. Character has simple stick-figure arms and legs, simple black dot eyes, and a shocked, nervous expression with exaggerated sweat drops, looking down at its own body. Holding a blank vintage paper price tag in one hand. Texture of the character's surface itself is smooth, transparent, shiny glass with visible fizzy liquid and condensation droplets. Plain solid grey background, clean studio character reference lighting. Clean line art, flat colors, vector-style graphics, minimalist Korean webtoon aesthetic. IMPORTANT: absolutely NO text, no captions, no title, no labels anywhere in the image."
+    },
+    {
+      "id": "CONTOUR_BOTTLE",
+      "prompt": "Korean webtoon style illustration. An anthropomorphized classic curved contour glass bottle character. Character has simple stick-figure arms and legs, simple black dot eyes, and an arrogant, supremely confident smile, standing with hands on its 'hips' in a triumphant pose. Wearing a small, elegant dark red cape lined with gold (matching Gentleman Rouge's style) draped over one shoulder. Texture of the character's surface itself is ribbed, curvy, light greenish transparent glass (Georgia Green) with a sleek, polished, premium reflection. Plain solid grey background, clean studio character reference lighting. Clean line art, flat colors, vector-style graphics, minimalist Korean webtoon aesthetic. IMPORTANT: absolutely NO text, no captions, no title, no labels anywhere in the image."
+    }
+  ]
+}

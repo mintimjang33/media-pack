@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "씬 이미지 생성 진행상황",
+  "version": "1.0.0",
+  "description": "flow_econ_driver.py 진행 상황을 Flow 옆 사이드패널에 표시",
+  "permissions": ["sidePanel", "tabs"],
+  "host_permissions": ["http://127.0.0.1:8799/*", "https://flow.google.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "panel.html"
+  },
+  "action": {}
+}

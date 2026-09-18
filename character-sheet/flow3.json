@@ -1,0 +1,10 @@
+{
+  "ratio": "16:9",
+  "images": [
+    {
+      "id": "CAST_REF2",
+      "anchor": true,
+      "prompt": "A minimalist stick-figure character standing alone in a neutral front-facing pose against a solid plain light grey background. The character's entire surface -- skin, hair, clothes, everything -- is rendered as aged sepia-toned paper material with a fine halftone dot print texture, and the character's outer silhouette edge looks softly torn like a paper cutout. Simple round head, simple geometric body proportions, plain basic clothing. Single isolated character only, nothing else in the frame, clean simple vector shape combined with the paper material texture, character reference sheet presentation, centered composition."
+    }
+  ]
+}

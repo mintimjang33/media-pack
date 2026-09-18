@@ -1,0 +1,1097 @@
+{
+ "images": {
+  "anchor": "engshorts/progressive-lens/flow_img_12.jpg",
+  "page": "engshorts/progressive-lens/flow_img_11.jpg",
+  "bifocal": "engshorts/progressive-lens/flow_img_10.jpg",
+  "seam": "engshorts/progressive-lens/flow_img_09.jpg",
+  "edge": "engshorts/progressive-lens/flow_img_08.jpg",
+  "grid": "engshorts/progressive-lens/flow_img_07.jpg",
+  "blanks": "engshorts/progressive-lens/flow_img_06.jpg",
+  "machine": "engshorts/progressive-lens/flow_img_05.jpg",
+  "framed": "engshorts/progressive-lens/flow_img_04.jpg",
+  "stairs": "engshorts/progressive-lens/flow_img_02.jpg",
+  "three": "engshorts/progressive-lens/flow_img_01.jpg",
+  "folded": "engshorts/progressive-lens/flow_img_00.jpg"
+ },
+ "cuts": [
+  {
+   "s": 0.0,
+   "d": 3.3,
+   "clip": "engshorts/progressive-lens/CLIP01.mp4",
+   "clipFrom": 0.0,
+   "sub": [
+    "안경 렌즈 하나에 도수가 여러",
+    "개 들어 있습니다. 그런데 옆을"
+   ],
+   "ov": [
+    {
+     "t": "eng",
+     "at": {
+      "x": 58,
+      "y": 40
+     },
+     "text": "ONE LENS",
+     "delay": 26
+    }
+   ]
+  },
+  {
+   "s": 3.3,
+   "d": 2.9,
+   "base": "grid",
+   "cam": {
+    "from": 1.0,
+    "to": 1.08,
+    "cy": 45
+   },
+   "sub": [
+    "보면 흐려지죠. 이건 불량이 아니라 일부러"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "옆이 흐리다",
+     "y": 13,
+     "delay": 12,
+     "accent": true
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 50,
+        "y": 48
+       },
+       "to": {
+        "x": 24,
+        "y": 48
+       }
+      },
+      {
+       "from": {
+        "x": 50,
+        "y": 48
+       },
+       "to": {
+        "x": 76,
+        "y": 48
+       }
+      }
+     ],
+     "delay": 20,
+     "stagger": 4,
+     "width": 1.1
+    }
+   ]
+  },
+  {
+   "s": 6.2,
+   "d": 3.0,
+   "base": "anchor",
+   "cam": {
+    "from": 1.06,
+    "to": 1.0
+   },
+   "sub": [
+    "남겨둔 겁니다. 설계에",
+    "들어 있는 흐림이거든요."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "일부러 남긴 흐림",
+     "y": 13,
+     "delay": 10,
+     "accent": true
+    },
+    {
+     "t": "eng",
+     "at": {
+      "x": 60,
+      "y": 44
+     },
+     "text": "BY DESIGN",
+     "delay": 18
+    }
+   ]
+  },
+  {
+   "s": 9.2,
+   "d": 4.0,
+   "clip": "engshorts/progressive-lens/CLIP02.mp4",
+   "clipFrom": 0.0,
+   "sub": [
+    "마흔쯤 되면 가까운 글씨가 안 보이기",
+    "시작합니다. 눈 속 수정체가"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "마흔쯤 시작된다",
+     "y": 13,
+     "delay": 22
+    },
+    {
+     "t": "dim",
+     "from": {
+      "x": 28,
+      "y": 68
+     },
+     "to": {
+      "x": 72,
+      "y": 68
+     },
+     "label": "가까운 글씨",
+     "delay": 30
+    }
+   ]
+  },
+  {
+   "s": 13.2,
+   "d": 3.4,
+   "base": "page",
+   "cam": {
+    "from": 1.08,
+    "to": 1.0
+   },
+   "sub": [
+    "굳어서 초점을 못 당기는",
+    "겁니다. 멀리 보는 안경 하나,"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "초점을 못 당긴다",
+     "y": 13,
+     "delay": 8
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 50,
+        "y": 30
+       },
+       "to": {
+        "x": 50,
+        "y": 62
+       }
+      }
+     ],
+     "delay": 16,
+     "width": 1.2
+    },
+    {
+     "t": "eng",
+     "at": {
+      "x": 58,
+      "y": 40
+     },
+     "text": "PRESBYOPIA",
+     "delay": 24
+    }
+   ]
+  },
+  {
+   "s": 16.6,
+   "d": 4.0,
+   "base": "bifocal",
+   "cam": {
+    "from": 1.0,
+    "to": 1.07,
+    "cy": 55
+   },
+   "sub": [
+    "가까이 보는 안경 하나. 두 개를",
+    "번갈아 쓸 수는 없죠. 그래서 렌즈 한 장에"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "한 장에 도수 둘",
+     "y": 13,
+     "delay": 14
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 22,
+        "y": 38
+       },
+       "to": {
+        "x": 44,
+        "y": 38
+       }
+      },
+      {
+       "from": {
+        "x": 22,
+        "y": 62
+       },
+       "to": {
+        "x": 44,
+        "y": 62
+       }
+      }
+     ],
+     "delay": 22,
+     "stagger": 5,
+     "width": 1.0
+    },
+    {
+     "t": "dim",
+     "from": {
+      "x": 24,
+      "y": 72
+     },
+     "to": {
+      "x": 76,
+      "y": 72
+     },
+     "label": "위=멀리 / 아래=가까이",
+     "delay": 30
+    }
+   ]
+  },
+  {
+   "s": 20.6,
+   "d": 3.9,
+   "clip": "engshorts/progressive-lens/CLIP03.mp4",
+   "clipFrom": 0.1,
+   "sub": [
+    "도수를 두 개 넣었습니다. 위는 멀리,",
+    "아래는 가까이. 이중초점입니다."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "이중초점",
+     "y": 13,
+     "delay": 20,
+     "accent": true
+    },
+    {
+     "t": "dim",
+     "from": {
+      "x": 26,
+      "y": 66
+     },
+     "to": {
+      "x": 74,
+      "y": 66
+     },
+     "label": "도수 2개",
+     "delay": 28
+    },
+    {
+     "t": "eng",
+     "at": {
+      "x": 58,
+      "y": 34
+     },
+     "text": "SEGMENT",
+     "delay": 34
+    }
+   ]
+  },
+  {
+   "s": 24.5,
+   "d": 4.1,
+   "base": "seam",
+   "cam": {
+    "from": 1.05,
+    "to": 1.12,
+    "cy": 50
+   },
+   "sub": [
+    "그런데 경계선이 문제였습니다.",
+    "도수가 뚝 끊기니까 그"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "경계에서 상이 튄다",
+     "y": 13,
+     "delay": 12,
+     "accent": true
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 40,
+        "y": 60
+       },
+       "to": {
+        "x": 60,
+        "y": 40
+       }
+      }
+     ],
+     "delay": 20,
+     "width": 1.4
+    },
+    {
+     "t": "x",
+     "at": {
+      "x": 50,
+      "y": 50
+     },
+     "size": 15,
+     "delay": 30
+    }
+   ]
+  },
+  {
+   "s": 28.6,
+   "d": 4.0,
+   "base": "stairs",
+   "cam": {
+    "from": 1.0,
+    "to": 1.08,
+    "cy": 60
+   },
+   "sub": [
+    "선을 넘는 순간 상이 튑니다. 계단을",
+    "내려갈 때 발밑이 어긋나 보이죠."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "발밑이 어긋난다",
+     "y": 13,
+     "delay": 10
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 46,
+        "y": 34
+       },
+       "to": {
+        "x": 54,
+        "y": 70
+       }
+      }
+     ],
+     "delay": 18,
+     "width": 1.3
+    },
+    {
+     "t": "eng",
+     "at": {
+      "x": 58,
+      "y": 26
+     },
+     "text": "IMAGE JUMP",
+     "delay": 26,
+     "warn": true
+    }
+   ]
+  },
+  {
+   "s": 32.6,
+   "d": 3.8,
+   "clip": "engshorts/progressive-lens/CLIP04.mp4",
+   "clipFrom": 0.1,
+   "sub": [
+    "그래서 경계를 없앴습니다. 위에서",
+    "아래로 도수를 연속으로"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "경계를 없앤다",
+     "y": 13,
+     "delay": 20,
+     "accent": true
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 50,
+        "y": 28
+       },
+       "to": {
+        "x": 50,
+        "y": 70
+       }
+      }
+     ],
+     "delay": 28,
+     "width": 1.2
+    }
+   ]
+  },
+  {
+   "s": 36.4,
+   "d": 3.9,
+   "base": "edge",
+   "cam": {
+    "from": 1.06,
+    "to": 1.0
+   },
+   "sub": [
+    "바꿉니다. 근용부는 눈높이에서",
+    "십 밀리미터쯤 아래에 옵니다."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "위에서 아래로 연속",
+     "y": 13,
+     "delay": 12
+    },
+    {
+     "t": "dim",
+     "from": {
+      "x": 22,
+      "y": 30
+     },
+     "to": {
+      "x": 22,
+      "y": 68
+     },
+     "label": "10mm",
+     "delay": 20
+    },
+    {
+     "t": "eng",
+     "at": {
+      "x": 60,
+      "y": 52
+     },
+     "text": "CORRIDOR",
+     "delay": 28
+    }
+   ]
+  },
+  {
+   "s": 40.3,
+   "d": 3.9,
+   "clip": "engshorts/progressive-lens/CLIP05.mp4",
+   "clipFrom": 0.1,
+   "sub": [
+    "그런데 이번엔 옆이 흐려집니다. 그냥",
+    "부작용이 아니라 이유가 있습니다."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "이번엔 옆이 흐리다",
+     "y": 13,
+     "delay": 22
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 50,
+        "y": 46
+       },
+       "to": {
+        "x": 22,
+        "y": 46
+       }
+      },
+      {
+       "from": {
+        "x": 50,
+        "y": 46
+       },
+       "to": {
+        "x": 78,
+        "y": 46
+       }
+      }
+     ],
+     "delay": 30,
+     "stagger": 4,
+     "width": 1.1
+    }
+   ]
+  },
+  {
+   "s": 44.2,
+   "d": 3.8,
+   "base": "grid",
+   "sub": [
+    "민크비츠 정리라고 합니다.",
+    "도수가 세로로 변하는 비율의 두"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "민크비츠 정리",
+     "y": 13,
+     "delay": 10,
+     "accent": true
+    },
+    {
+     "t": "profile",
+     "mode": "decay",
+     "y": 42,
+     "delay": 16,
+     "caption": "가운데에서 옆으로",
+     "axis": "난시"
+    }
+   ]
+  },
+  {
+   "s": 48.0,
+   "d": 3.8,
+   "base": "grid",
+   "cam": {
+    "from": 1.05,
+    "to": 1.12,
+    "cy": 45
+   },
+   "sub": [
+    "배로, 그 옆의 난시가 커집니다.",
+    "부드럽게 바꿀수록 옆이 더"
+   ],
+   "ov": [
+    {
+     "t": "dim",
+     "from": {
+      "x": 24,
+      "y": 62
+     },
+     "to": {
+      "x": 76,
+      "y": 62
+     },
+     "label": "도수 변화율의 2배",
+     "delay": 14
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 50,
+        "y": 44
+       },
+       "to": {
+        "x": 20,
+        "y": 44
+       }
+      },
+      {
+       "from": {
+        "x": 50,
+        "y": 44
+       },
+       "to": {
+        "x": 80,
+        "y": 44
+       }
+      }
+     ],
+     "delay": 22,
+     "stagger": 3,
+     "width": 1.3
+    },
+    {
+     "t": "eng",
+     "at": {
+      "x": 58,
+      "y": 30
+     },
+     "text": "ASTIGMATISM",
+     "delay": 30,
+     "warn": true
+    }
+   ]
+  },
+  {
+   "s": 51.8,
+   "d": 3.7,
+   "base": "blanks",
+   "cam": {
+    "from": 1.0,
+    "to": 1.07
+   },
+   "sub": [
+    "빨리 망가지는 겁니다. 도수를",
+    "옮긴 대가를 옆면이 치르는 거죠."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "부드럽게 할수록",
+     "y": 13,
+     "delay": 12
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 20,
+        "y": 58
+       },
+       "to": {
+        "x": 80,
+        "y": 58
+       }
+      }
+     ],
+     "delay": 20,
+     "width": 1.2
+    },
+    {
+     "t": "dim",
+     "from": {
+      "x": 24,
+      "y": 70
+     },
+     "to": {
+      "x": 76,
+      "y": 70
+     },
+     "label": "곡률 증가",
+     "delay": 28
+    }
+   ]
+  },
+  {
+   "s": 55.5,
+   "d": 2.0,
+   "base": "grid",
+   "sub": [
+    "그럼 그 흐린 걸 없애면 되지 않냐고요?"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "없애면 되지 않나?",
+     "y": 13,
+     "delay": 8
+    }
+   ]
+  },
+  {
+   "s": 57.5,
+   "d": 1.9,
+   "base": "grid",
+   "cam": {
+    "from": 1.04,
+    "to": 1.1,
+    "cy": 50
+   },
+   "sub": [
+    "광학적으로 못 없앱니다. 그래서"
+   ],
+   "ov": [
+    {
+     "t": "x",
+     "at": {
+      "x": 50,
+      "y": 48
+     },
+     "size": 18,
+     "delay": 6
+    },
+    {
+     "t": "eng",
+     "at": {
+      "x": 56,
+      "y": 64
+     },
+     "text": "IMPOSSIBLE",
+     "delay": 12,
+     "warn": true
+    }
+   ]
+  },
+  {
+   "s": 59.4,
+   "d": 3.0,
+   "base": "blanks",
+   "sub": [
+    "발상을 뒤집습니다. 없애는 게 아니라 옮기는"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "없애지 말고 옮긴다",
+     "y": 13,
+     "delay": 10,
+     "accent": true
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 50,
+        "y": 50
+       },
+       "to": {
+        "x": 18,
+        "y": 50
+       }
+      },
+      {
+       "from": {
+        "x": 50,
+        "y": 50
+       },
+       "to": {
+        "x": 82,
+        "y": 50
+       }
+      }
+     ],
+     "delay": 18,
+     "stagger": 4,
+     "width": 1.4
+    }
+   ]
+  },
+  {
+   "s": 62.4,
+   "d": 2.4,
+   "base": "machine",
+   "cam": {
+    "from": 1.0,
+    "to": 1.06
+   },
+   "sub": [
+    "겁니다. 흐림을 안 보는 쪽으로 몰아냅니다."
+   ],
+   "ov": [
+    {
+     "t": "eng",
+     "at": {
+      "x": 54,
+      "y": 34
+     },
+     "text": "REDISTRIBUTE",
+     "delay": 8
+    }
+   ]
+  },
+  {
+   "s": 64.8,
+   "d": 2.4,
+   "base": "machine",
+   "cam": {
+    "from": 1.06,
+    "to": 1.0
+   },
+   "sub": [
+    "지울 수 없으면 자리를 정해주는 거죠."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "자리를 정해준다",
+     "y": 13,
+     "delay": 6
+    },
+    {
+     "t": "dim",
+     "from": {
+      "x": 26,
+      "y": 64
+     },
+     "to": {
+      "x": 74,
+      "y": 64
+     },
+     "label": "옆으로 2배 속도",
+     "delay": 12
+    }
+   ]
+  },
+  {
+   "s": 67.2,
+   "d": 4.0,
+   "clip": "engshorts/progressive-lens/CLIP06.mp4",
+   "clipFrom": 0.0,
+   "sub": [
+    "시선이 지나가는 세로 통로만",
+    "깨끗하게 남깁니다. 난시는 전부 그"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "세로 통로만 남긴다",
+     "y": 13,
+     "delay": 22,
+     "accent": true
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 50,
+        "y": 26
+       },
+       "to": {
+        "x": 50,
+        "y": 72
+       }
+      }
+     ],
+     "delay": 30,
+     "width": 1.5
+    }
+   ]
+  },
+  {
+   "s": 71.2,
+   "d": 3.6,
+   "base": "framed",
+   "sub": [
+    "양옆으로 밀어냅니다. 대신 가입도가",
+    "클수록 통로가 좁아집니다."
+   ],
+   "ov": [
+    {
+     "t": "profile",
+     "mode": "stair",
+     "y": 42,
+     "delay": 8,
+     "caption": "통로 밖으로 몰아낸다",
+     "axis": "난시",
+     "ghost": "decay"
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 50,
+        "y": 66
+       },
+       "to": {
+        "x": 20,
+        "y": 66
+       }
+      },
+      {
+       "from": {
+        "x": 50,
+        "y": 66
+       },
+       "to": {
+        "x": 80,
+        "y": 66
+       }
+      }
+     ],
+     "delay": 22,
+     "stagger": 4,
+     "width": 1.2
+    }
+   ]
+  },
+  {
+   "s": 74.8,
+   "d": 3.2,
+   "base": "three",
+   "cam": {
+    "from": 1.0,
+    "to": 1.08,
+    "cy": 50
+   },
+   "sub": [
+    "가입도가 이 디옵터,",
+    "삼 디옵터로 올라가면 통로가"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "가입도가 클수록",
+     "y": 13,
+     "delay": 10
+    },
+    {
+     "t": "dim",
+     "from": {
+      "x": 24,
+      "y": 68
+     },
+     "to": {
+      "x": 76,
+      "y": 68
+     },
+     "label": "+0.75 ~ +3.00 D",
+     "delay": 18
+    }
+   ]
+  },
+  {
+   "s": 78.0,
+   "d": 3.0,
+   "base": "three",
+   "cam": {
+    "from": 1.08,
+    "to": 1.0
+   },
+   "sub": [
+    "더 좁아지고,",
+    "그만큼 눈을 정확히 굴려야 합니다."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "통로가 좁아진다",
+     "y": 13,
+     "delay": 8,
+     "accent": true
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 26,
+        "y": 52
+       },
+       "to": {
+        "x": 44,
+        "y": 52
+       }
+      },
+      {
+       "from": {
+        "x": 74,
+        "y": 52
+       },
+       "to": {
+        "x": 56,
+        "y": 52
+       }
+      }
+     ],
+     "delay": 14,
+     "stagger": 3,
+     "width": 1.3
+    }
+   ]
+  },
+  {
+   "s": 81.0,
+   "d": 3.8,
+   "base": "folded",
+   "cam": {
+    "from": 1.0,
+    "to": 1.06
+   },
+   "sub": [
+    "대신 대가가 있습니다. 적응 기간이 필요하고,",
+    "옆을 볼 땐 고개를"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "적응 기간이 든다",
+     "y": 13,
+     "delay": 12
+    },
+    {
+     "t": "eng",
+     "at": {
+      "x": 58,
+      "y": 44
+     },
+     "text": "TRADE-OFF",
+     "delay": 22
+    }
+   ]
+  },
+  {
+   "s": 84.8,
+   "d": 3.6,
+   "base": "framed",
+   "cam": {
+    "from": 1.07,
+    "to": 1.0
+   },
+   "sub": [
+    "돌려야 하죠. 완벽한 렌즈를 만든",
+    "게 아닙니다. 어디를 포기할지"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "옆은 고개를 돌린다",
+     "y": 13,
+     "delay": 10
+    },
+    {
+     "t": "flow",
+     "arrows": [
+      {
+       "from": {
+        "x": 42,
+        "y": 56
+       },
+       "to": {
+        "x": 68,
+        "y": 56
+       }
+      }
+     ],
+     "delay": 18,
+     "width": 1.2
+    }
+   ]
+  },
+  {
+   "s": 88.4,
+   "d": 2.6,
+   "base": "folded",
+   "cam": {
+    "from": 1.05,
+    "to": 1.0
+   },
+   "sub": [
+    "고른 겁니다. 흐림을 지운 게 아니라 안 쓰는"
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "어디를 포기할지",
+     "y": 13,
+     "delay": 8,
+     "accent": true
+    }
+   ]
+  },
+  {
+   "s": 91.0,
+   "d": 3.4,
+   "clip": "engshorts/progressive-lens/CLIP07.mp4",
+   "clipFrom": 0.2,
+   "sub": [
+    "자리로 치운 거고요. 우리가 쓰는",
+    "그 안경은 이렇게 설계된 겁니다."
+   ],
+   "ov": [
+    {
+     "t": "ko",
+     "text": "이렇게 설계된 겁니다",
+     "y": 13,
+     "delay": 20,
+     "accent": true
+    }
+   ]
+  }
+ ]
+}

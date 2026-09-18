@@ -1,0 +1,559 @@
+### S01 오백조 원짜리 코카콜라 네온사인이 낡은 삼백달러 영수증 위로 벼락처럼 떨어져 짓누른다
+- 시간: 0:00-0:09
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S01.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A giant glowing red 'COCA-COLA' neon sign crashes down like a lightning bolt onto a faded antique receipt on a wooden table, red liquid leaking from a cracked neon tube like blood. A tiny sepia-toned stickman figure lies crushed beneath its shadow, arms flung out in despair. Korean text label on the receipt: '$300'.
+- 영상: [영상클립 필요] Camera slow push-in toward the crushed receipt as the neon sign's red glow pulses ominously.
+
+
+### S02 젠틀맨 루즈가 어둠 속에서 걸어나와 외알렌즈를 매만지며 냉소적으로 웃는다
+- 시간: 0:09-0:19
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S02.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge walks confidently out of deep darkness, slowly touching his gold-rimmed monocle with one hand, a sly cold smirk on his face. Dark cinematic background with a single spotlight on him. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: [영상클립 필요] Camera holds steady as he strides forward into the spotlight.
+
+
+### S03 젠틀맨 루즈가 망토를 확 젖히며, 옆에 뜬 '1달러' 라벨을 가리킨다
+- 시간: 0:19-0:25
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S03.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge dramatically flings open his gold-lined black cape with a wide gesture, gesturing toward a small floating dollar bill icon beside him with a mocking grin. Korean text label: '1달러'. Dark cinematic background. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: [영상클립 필요] Camera whip-pans to follow the flaring cape reveal.
+
+
+### S04 젠틀맨 루즈가 손가락을 튕기자 계약서와 동전이 부서져 콜라잔 속으로 빨려들어간다
+- 시간: 0:25-0:34
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S04.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge snaps his fingers with a mischievous grin. An old contract paper and a single silver coin shatter into sparkling fragments mid-air and get sucked into a tall glass filled with ice, where dark fizzy liquid erupts in bubbles. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: [영상클립 필요] Quick zoom into the glass as fragments swirl and vanish into the bubbling dark liquid.
+
+
+### S05 낡은 애틀랜타 약국 뒷방 전경, 촛불 아래 비커와 약병들이 어지럽게 놓여있다
+- 시간: 0:34-0:43
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S05.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A dim, cluttered 19th-century pharmacy back room lit by a single candle, wide establishing shot. Dark dusty bottles and beakers are scattered across an old wooden desk. A small silhouette of the stickman actor representing pharmacist John Pemberton is seen hunched at the desk in the background. Korean text label on a jar: '1886년 애틀랜타'. Setting: inside the same dim, cluttered 19th-century pharmacy back room, lit only by a single candle, dark bottles and beakers scattered across an old wooden desk.
+- 영상: Slow dolly-in from the wide pharmacy shot toward the hunched figure at the desk.
+
+
+### S06 약사 존 펨버턴이 소개되며, 그의 목표는 청량음료가 아니었음을 보여준다
+- 시간: 0:43-0:56
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S06.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton sits at his cluttered desk holding up a plain dark medicine bottle (not a soda bottle) with a serious, focused expression, candlelit pharmacy background with scattered chemistry equipment. Setting: inside the same dim, cluttered 19th-century pharmacy back room, lit only by a single candle, dark bottles and beakers scattered across an old wooden desk.
+- 영상: Camera pushes in slowly on his focused expression and the plain medicine bottle.
+
+
+### S07 펨버턴이 가슴의 전쟁 상처를 움켜쥐고 모르핀 중독으로 괴로워한다
+- 시간: 0:56-1:11
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S07.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton clutches his chest where a faded scar mark is drawn, doubled over in agony, tiny sweat drops flying off his head expressing morphine withdrawal suffering. A small empty morphine bottle rolls on the floor beside him. Setting: inside the same dim, cluttered 19th-century pharmacy back room, lit only by a single candle, dark bottles and beakers scattered across an old wooden desk.
+- 영상: Camera tilts down from his pained face to the empty bottle rolling away.
+
+
+### S08 펨버턴이 새로 만든 약이 지금의 콜라와는 완전히 다른 모습임을 보여준다
+- 시간: 1:11-1:17
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S08.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton holds up a completely different-looking dark bottle with an ornate old-fashioned label, comparing it in his other hand to a small silhouette outline of a modern soda bottle, a thoughtful expression on his face. Setting: inside the same dim, cluttered 19th-century pharmacy back room, lit only by a single candle, dark bottles and beakers scattered across an old wooden desk.
+- 영상: Camera pans between the two bottles held in his hands.
+
+
+### S09 펨버턴이 값비싼 와인병에 코카인 잎 추출물을 쏟아붓는다
+- 시간: 1:17-1:27
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S09.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton pours dark extract from a mortar of crushed coca leaves into an elegant bordeaux wine bottle, a focused, slightly manic expression on his face. Dried coca leaves scattered on the table. Setting: on the same cluttered pharmacy desk as before, an elegant bordeaux wine bottle and dried coca leaves prominently in view.
+- 영상: Camera pans slowly from the coca leaves to the wine bottle as the liquid pours in.
+
+
+### S10 완성된 '프렌치 와인 코카'를 마신 손님이 취한듯 기분좋아하고, 펨버턴이 두뇌 강장제라 광고한다
+- 시간: 1:27-1:40
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S10.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. An ornate wine bottle with a hand-lettered label sits on a shelf. Beside it, the stickman actor representing a customer holds a small glass, eyes rolled back in blissful, tipsy delight, cheeks flushed pink. Korean text label on the bottle: '프렌치 와인 코카'. In the background, the stickman actor representing Pemberton proudly holds up an advertisement sign. Setting: on the same cluttered pharmacy desk as before, an elegant bordeaux wine bottle and dried coca leaves prominently in view.
+- 영상: Camera pans from the blissful customer to Pemberton's proud advertising pose.
+
+
+### S11 펨버턴의 부푼 꿈이 처참하게 박살난다
+- 시간: 1:40-1:46
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S11.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton's proud advertisement sign cracks and shatters into pieces mid-air, his confident expression turning to shock. A large ominous newspaper shadow looms over him from above. Setting: on the same cluttered pharmacy desk as before, an elegant bordeaux wine bottle and dried coca leaves prominently in view.
+- 영상: Quick zoom as the sign shatters and the shadow falls over him.
+
+
+### S12 금주법 신문 기사가 화면을 덮치고 술병에 붉은 X 표시가 찍힌다
+- 시간: 1:46-2:00
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S12.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A large vintage newspaper front page fills the frame with bold headline text, a thick red 'X' mark stamped violently across a painted illustration of a wine bottle. Korean text label: '금주법 시행'. the stickman actor representing Pemberton stands beside it, hands raised in dismay. Setting: with a large vintage 1886 newspaper front page filling the background.
+- 영상: Sharp cut as the red X stamp slams down onto the bottle illustration.
+
+
+### S13 펨버턴이 슬픈 표정으로 와인을 버리고 설탕 시럽을 대충 부어넣어 엉망진창인 액체를 만든다
+- 시간: 2:00-2:13
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S13.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton sadly pours out wine from a bottle with a defeated expression, while carelessly dumping sticky sugar syrup and spices into a mixing bowl with his other hand. Messy, disorganized pharmacy counter background. Setting: with a large vintage 1886 newspaper front page filling the background.
+- 영상: Camera tilts between his sad face and the messy improvised mixture below.
+
+
+### S14 검은 시럽이 담긴 정체불명의 유리잔이 쓸쓸하게 놓여있다
+- 시간: 2:13-2:21
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S14.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A single small glass of murky black unidentified syrup sits alone on a dusty pharmacy shelf corner, a lonely dim spotlight on it, empty shelves around it emphasizing isolation. Setting: inside the same dusty, dimly lit 19th-century pharmacy, shelves lined with old glass bottles.
+- 영상: Slow zoom-in on the lonely glass under the dim spotlight.
+
+
+### S15 약국 카운터에서 하루 여섯 잔만 팔리는 초라한 판매 장면
+- 시간: 2:21-2:33
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S15.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A wide shot of a nearly empty vintage pharmacy soda counter. the stickman actor representing the pharmacist stands behind the counter looking dejected, with only six small glasses lined up. Korean text label above the counter: '하루 평균 6잔'. Setting: inside the same dusty, dimly lit 19th-century pharmacy, shelves lined with old glass bottles.
+- 영상: Camera slowly pans across the empty counter, emphasizing how few glasses remain.
+
+
+### S16 펨버턴이 위암 통증에 몸을 웅크리고, 모르핀 살 돈이 없어 절망한다
+- 시간: 2:33-2:47
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S16.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton curls up in severe stomach pain, one hand clutching his abdomen, the other reaching desperately toward an empty coin purse turned upside down with nothing falling out. Anguished, desperate facial expression. Setting: inside the same dusty, dimly lit 19th-century pharmacy, shelves lined with old glass bottles.
+- 영상: Camera pushes in on his desperate reaching hand and the empty coin purse.
+
+
+### S17 펨버턴이 낡은 계약서에 서명하고, 삼백 달러를 건네받는다
+- 시간: 2:47-3:00
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S17.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton signs a contract with a shaking hand using a quill pen. A stack of small bills is pushed toward him across the desk. Korean text label on the bills: '300달러'. His face shows resigned, hollow defeat. Setting: in the same dim pharmacy interior, a simple wooden desk and an old cot in the background.
+- 영상: Camera pans from his shaking signature up to his hollow, defeated expression.
+
+
+### S18 펨버턴이 무일푼으로 홀로 쓸쓸하게 죽어간다
+- 시간: 3:00-3:11
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S18.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton lies weakly on a simple bed, eyes half closed, an empty overturned coin purse and empty medicine bottles beside him on the floor. Dim, somber lighting, muted grey-blue color tones. Setting: in the same dim pharmacy interior, a simple wooden desk and an old cot in the background.
+- 영상: Slow fade as the dim light around him gently dims further.
+
+
+### S19 젠틀맨 루즈가 안타까운 척 조소를 흘린다
+- 시간: 3:11-3:17
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S19.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge puts on an exaggerated mock-sympathetic frown, one hand on his chest, then breaks into a sly smirking grin, one eyebrow raised toward the camera. Setting: in the same dim pharmacy interior, a simple wooden desk and an old cot in the background.
+- 영상: Camera cuts from his fake-sad face to his smirk.
+
+
+### S20 에이서 캔들러가 돈방석 위에 거만하게 앉아있다
+- 시간: 3:17-3:27
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S20.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler sits arrogantly atop a large pile of gold coins shaped like a throne, arms crossed with a smug, confident expression, wearing a small top hat prop as his only identifying accessory. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: Camera slowly orbits around his smug pose atop the coin throne.
+
+
+### S21 캔들러가 일 달러짜리 헛발질을 준비하며 비열하게 웃는다
+- 시간: 3:27-3:36
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S21.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler rubs his hands together with a greedy, scheming grin, a small dollar-bill-shaped shadow looming ominously behind him foreshadowing his own mistake. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: Camera slowly zooms in on his scheming grin.
+
+
+### S22 캔들러가 펨버턴에게서 헐값에 권리를 넘겨받으며, 죽어가는 음료를 되살리려 한다
+- 시간: 3:36-3:48
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S22.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler snatches a contract paper from a weak, fading silhouette of the dying pharmacist, a greedy grin on his face. Korean text label on the contract: '완전 소유권'. Setting: at the same elegant mahogany office desk, dark wood-paneled walls, a gold pocket watch nearby.
+- 영상: Quick cut as the contract paper changes hands between the two silhouettes.
+
+
+### S23 캔들러가 시커먼 액체에 필요한 건 포장이라며 확신에 찬 표정을 짓는다
+- 시간: 3:48-3:59
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S23.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler kneels beside a wilting, sickly glass of dark liquid drawn with a comically drooping sad face, performing an exaggerated CPR-like gesture over it with determined focus. Setting: at the same elegant mahogany office desk, dark wood-paneled walls, a gold pocket watch nearby.
+- 영상: Camera pushes in as his hands hover dramatically over the wilting glass.
+
+
+### S24 칙칙한 진통제가 세련된 청량음료 병으로 화려하게 둔갑하고 매출 그래프가 치솟는다
+- 시간: 3:59-4:07
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S24.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A dull grey medicine bottle transforms in a burst of sparkles into a shiny, elegant soda bottle. Beside it, a bar graph made of stacked gold coins rockets upward. the stickman actor representing Asa Candler watches with a triumphant grin, fists raised. Setting: at the same elegant mahogany office desk, dark wood-paneled walls, a gold pocket watch nearby.
+- 영상: Camera tilts up following the rocketing coin graph bars.
+
+
+### S25 캔들러가 소다 파운틴에서 콜라를 직접 뽑아 신념을 강조한다
+- 시간: 4:07-4:18
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S25.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler stands proudly behind an ornate vintage soda fountain counter, pulling a lever to dispense fizzy dark soda into a glass, a firm, stubborn expression on his face. Elegant pharmacy soda-fountain background. Setting: inside the same ornate 19th-century soda fountain parlor, marble counters and warm brass fixtures.
+- 영상: Camera pans across the ornate fountain fixtures to his stubborn expression.
+
+
+### S26 신사 숙녀들이 소다 파운틴에 모여 콜라를 마시며 사교 행사를 즐기고, 캔들러는 취해있다
+- 시간: 4:18-4:28
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S26.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A group of stickman actor characters in simple top hats and bow-tie props gather cheerfully around an elegant soda fountain counter, each holding a glass of fizzy dark soda, laughing and socializing. the stickman actor representing Asa Candler stands proudly behind the counter, arms spread wide with intoxicated confidence. Setting: inside the same ornate 19th-century soda fountain parlor, marble counters and warm brass fixtures.
+- 영상: Camera slowly pans across the cheerful social gathering at the counter.
+
+
+### S27 두 명의 젊은 변호사가 캔들러의 사무실 문을 두드린다
+- 시간: 4:28-4:35
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S27.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Two stickman actor characters holding briefcase props stand nervously in front of a large office door, knuckles mid-knock. Through the door's frosted glass, the shadow of the stickman actor representing Asa Candler sits arrogantly at his desk inside. Setting: inside the same ornate 19th-century soda fountain parlor, marble counters and warm brass fixtures.
+- 영상: Camera pushes in on the knocking hand as the office door looms larger.
+
+
+### S28 변호사들이 유리병 제안을 하자 캔들러가 코웃음치며 거절한다
+- 시간: 4:35-4:46
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S28.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing a young lawyer holds up a glass soda bottle prop toward the stickman actor representing Asa Candler, who throws his head back laughing dismissively, one hand waving the idea away in mockery. Setting: in Candler's mahogany office, two empty glass bottles nearby.
+- 영상: Camera cuts between the offered bottle and Candler's mocking laughing face.
+
+
+### S29 캔들러가 무거운 유리병을 들고 낑낑대는 상상을 하며, 탄산이 빠질까 걱정한다
+- 시간: 4:46-4:56
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S29.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A thought-bubble style vignette: the stickman actor representing a customer struggles comically, straining and sweating while carrying an oversized heavy glass bottle, fizzy bubbles visibly escaping from its cap. Outside the bubble, the stickman actor representing Asa Candler crosses his arms with a worried, skeptical frown. Setting: in Candler's mahogany office, two empty glass bottles nearby.
+- 영상: Camera pulls back from the thought bubble to Candler's skeptical frown.
+
+
+### S30 캔들러가 짜증스럽게 계약서에 서명해 병 판매 독점권을 넘긴다
+- 시간: 4:56-5:05
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S30.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler signs a contract with an irritated, dismissive expression, barely looking at the paper, waving his other hand as if shooing away flies. Korean text label on the paper: '병 콜라 독점 판권'. Setting: in Candler's mahogany office, two empty glass bottles nearby.
+- 영상: Camera pushes in on his careless, hurried signature.
+
+
+### S31 코카콜라 병 독점 권리 계약서와 함께, 캔들러가 단돈 일 달러를 건넨다
+- 시간: 5:05-5:18
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S31.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler carelessly tosses a single dollar bill onto a signed contract without even looking, a dismissive smirk on his face. Korean text label on the bill: '1달러'. Korean text label on the contract: '병 콜라 독점 판권'. Setting: on the same mahogany office desk, the room bathed in a deep red tint.
+- 영상: Slow motion as the single dollar bill flutters down onto the contract.
+
+
+### S32 세월이 흘러 병 콜라가 세계를 정복하는 동안 캔들러가 경악한 표정으로 지켜본다
+- 시간: 5:18-5:31
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S32.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A world map background covered with tiny glowing red soda bottle icons spreading across every continent. the stickman actor representing an older, wrinkled Asa Candler watches from the corner with a shocked, regretful expression, hand on his forehead. Setting: on the same mahogany office desk, the room bathed in a deep red tint.
+- 영상: Camera slowly zooms out to reveal the spreading bottle icons across the whole map.
+
+
+### S33 펨버턴을 비웃던 캔들러가 자신도 더 큰 헛발질을 했음을 깨닫는다
+- 시간: 5:31-5:39
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S33.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A split-screen style composition: on one side a small faded silhouette of Pemberton with '$300' label, on the other side the stickman actor representing Asa Candler with a '$1' label, both wearing identical regretful, hollow expressions. Setting: on the same mahogany office desk, the room bathed in a deep red tint.
+- 영상: Camera slowly zooms out to reveal both silhouettes mirroring each other.
+
+
+### S34 젠틀맨 루즈가 관객에게 직접 질문을 던지며 도발적으로 웃는다
+- 시간: 5:39-5:52
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S34.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge leans toward the camera with one eyebrow raised, an inviting, provocative half-smile, one hand gesturing outward as if directly questioning the viewer, holding a dollar coin in the other hand. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: Camera holds a steady close-up as he leans in toward the lens.
+
+
+### S35 댓글창을 상징하는 말풍선들이 떠오르며 젠틀맨 루즈가 웃는다
+- 시간: 5:52-6:03
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S35.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge gestures playfully toward several empty speech-bubble icons floating in the air around him, inviting the viewer to fill them in, a cheeky grin on his face. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: Camera pans across the floating empty speech bubbles.
+
+
+### S36 두 사장의 오판에도 불구하고 코카콜라 제국이 꾸역꾸역 몸집을 불린다
+- 시간: 6:03-6:15
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S36.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A small, wobbly red castle made of stacked coca-cola bottle shapes awkwardly grows larger despite being crooked and unstable, with tiny cracks patched over messily. Comedic, precarious growth. Setting: against the backdrop of an old accounting ledger book, ink spilling across the page.
+- 영상: Camera slowly zooms out as the castle keeps growing larger and more crooked.
+
+
+### S37 약국 직원의 우연한 실수와 경리 직원의 낙서가 성을 떠받치고 있음을 보여준다
+- 시간: 6:15-6:23
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S37.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Underneath the wobbly growing bottle-castle, two tiny stickman actor figures are shown holding it up from below: one a startled pharmacy clerk mid-stumble, the other an accountant doodling on a ledger corner, both looking accidental and unaware of their importance. Setting: against the backdrop of an old accounting ledger book, ink spilling across the page.
+- 영상: Camera tilts down to reveal the two small figures secretly holding up the castle.
+
+
+### S38 펨버턴이 원래 맹물에 타서 마시려던 텁텁한 약물을 만드는 장면으로 돌아간다
+- 시간: 6:23-6:34
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S38.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing pharmacist John Pemberton stirs a plain glass of murky liquid mixed with tap water, wrinkling his nose at the thick, unpleasant texture. Simple pharmacy counter background with a plain water pitcher. Setting: in the same dim 19th-century pharmacy interior as before.
+- 영상: Camera pushes in on his wrinkled, displeased expression as he stirs.
+
+
+### S39 바쁜 약국 직원이 손님이 몰려 정신없어하며 실수를 저지르기 직전이다
+- 시간: 6:34-6:44
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S39.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing a flustered pharmacy clerk, sweating and overwhelmed by a crowd of impatient customers, reaching toward the wrong valve with a look of frantic confusion. Setting: in the same dim 19th-century pharmacy interior as before.
+- 영상: Camera whip-pans across the crowd to his flustered hand reaching for the valve.
+
+
+### S40 약국 직원이 실수로 탄산수 밸브를 열어버린다
+- 시간: 6:44-6:48
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S40.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing a flustered pharmacy clerk accidentally grabs and turns the wrong valve labeled with bubbles instead of the plain water valve, a look of panicked realization on his face. Setting: in the same dim 19th-century pharmacy interior as before.
+- 영상: Quick zoom on his hand turning the wrong valve as bubbles suddenly burst out.
+
+
+### S41 탄산수와 시럽이 폭발적으로 섞이며 사람들이 짜릿한 쾌감에 눈을 번쩍 뜬다
+- 시간: 6:48-7:00
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S41.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Fizzy bubbles explode dramatically as dark syrup and sparkling water collide in a glass, bubbles bursting outward in a starburst pattern. Several stickman actor customers around the counter gasp with wide, sparkling eyes and delighted expressions at the first sip. Setting: at the pharmacy soda counter, close on fizzing glassware.
+- 영상: Camera whip-zooms into the exploding bubbles, then pulls back to the delighted faces.
+
+
+### S42 제국의 심장박동 같은 청량감이 우연에서 나온 기적임을 보여준다
+- 시간: 7:00-7:11
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S42.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A glowing heart-shaped burst of fizzy bubbles pulses like a heartbeat above a soda glass, radiating golden light. the stickman actor representing the customers around the counter clutch their chests in delighted shock at the sensation. Setting: at the pharmacy soda counter, close on fizzing glassware.
+- 영상: Camera pulses in sync with the glowing heartbeat-like burst of bubbles.
+
+
+### S43 이 기적이 천재적 배합이 아니라 직원의 어설픈 손놀림에서 나왔음을 보여준다
+- 시간: 7:11-7:17
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S43.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing the clumsy pharmacy clerk stands beside the glowing soda glass, scratching his head in confused disbelief at what he accidentally created, a small sweat drop on his brow. Setting: at the pharmacy soda counter, close on fizzing glassware.
+- 영상: Camera pans from the glowing glass to the confused clerk.
+
+
+### S44 세계적으로 유명한 붉은 로고를 소개하며, 값비싼 전문가들이 밤새 디자인하는 모습을 상상한다
+- 시간: 7:17-7:32
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S44.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A giant glowing red Coca-Cola script logo floats in the sky, recognized by tiny stickman crowds below pointing up at it. In a thought bubble beside it, exhausted stickman actor designers in suits work frantically at drafting tables under bright studio lamps. Setting: with a giant glowing red Coca-Cola script logo floating against a dark sky.
+- 영상: Camera pans from the glowing logo down to the thought bubble of exhausted designers.
+
+
+### S45 사실은 경리 직원 프랭크 로빈슨이 장부 귀퉁이에 낙서한 것이었다
+- 시간: 7:32-7:42
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S45.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing accountant Frank Robinson sits at a cluttered desk, casually doodling the elegant script logo in the corner of a boring ledger book with a quill pen, an unbothered, mundane expression, completely unaware of its future importance. Setting: with a giant glowing red Coca-Cola script logo floating against a dark sky.
+- 영상: Camera slowly zooms in from the busy office to the small doodle in the ledger corner.
+
+
+### S46 로빈슨이 알파벳 씨(C)를 두 번 넣으면 예뻐 보인다는 단순한 이유로 로고를 다듬는다
+- 시간: 7:42-7:54
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S46.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing accountant Frank Robinson holds up his ledger page, comparing two doodled versions of lettering side by side, tapping the one with two matching curly 'C' letters with a satisfied, simple shrug. Korean text label: 'C C'. Setting: at accountant Frank Robinson's same cluttered office desk, an open ledger book in front of him.
+- 영상: Camera cuts between the two doodled lettering options as he taps his choice.
+
+
+### S47 거창한 철학 없이, 낙서하길 좋아하던 회계 직원의 미적 감각이었을 뿐이다
+- 시간: 7:54-8:04
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S47.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing accountant Frank Robinson shrugs casually with a simple, unassuming smile, doodling more small flourishes in the margins of his ledger book, no grand philosophy in his expression at all. Setting: at accountant Frank Robinson's same cluttered office desk, an open ledger book in front of him.
+- 영상: Camera slowly pans across the doodled ledger margins.
+
+
+### S48 낙서가 훗날 자본주의를 상징하는 왕관 같은 로고로 승격된다
+- 시간: 8:04-8:08
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S48.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. The same small handwritten doodle from the ledger corner glows and rises upward, transforming mid-air into a magnificent floating golden crown made of the iconic red script logo shape, sparkling with grandeur. Setting: the stickman actor representing accountant Frank Robinson sits at his same cluttered office desk, an open ledger book in front of him, gazing up in awe.
+- 영상: Slow upward camera tilt as the humble doodle rises and transforms into the golden crown.
+
+
+### S49 캔들러가 남긴 원칙은 '본질보다 포장'이었음을 보여준다
+- 시간: 8:08-8:17
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S49.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler stands proudly polishing the shiny, ornate outer shell of a soda bottle with a cloth, while the plain, dull inner liquid content is barely visible and ignored inside. Korean text label: '본질보다 포장'. Setting: in a simple studio-like space, spotlight focused on the soda bottle itself.
+- 영상: Camera pans from the shiny polished exterior down to the plain ignored interior.
+
+
+### S50 캔들러가 매력적인 껍데기로 거침없이 제국을 확장하며 승승장구한다
+- 시간: 8:17-8:29
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S50.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. the stickman actor representing businessman Asa Candler stretches out a shiny bottle-shaped shell with both hands, expanding it larger and larger like taffy, a confident triumphant grin on his face. A glowing trail of tiny soda bottle icons spreads across a map in the background. Setting: in a simple studio-like space, spotlight focused on the soda bottle itself.
+- 영상: Camera pulls back as the shell stretches larger and the map trail spreads.
+
+
+### S51 코카콜라가 미국을 넘어 전 세계로 확장하며 해피엔딩처럼 보인다
+- 시간: 8:29-8:37
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S51.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A glowing red trail of tiny soda bottle icons spreads rapidly across a stylized world map, crossing oceans and continents. the stickman actor representing Asa Candler stands triumphantly atop the map with arms raised in victory, sunny bright sky above. Setting: in a simple studio-like space, spotlight focused on the soda bottle itself.
+- 영상: Camera pulls back rapidly as the glowing trail spreads across the whole map.
+
+
+### S52 해피엔딩처럼 보이지만, 1980년대로 시간이 넘어가며 오만함의 그림자가 드리운다
+- 시간: 8:37-8:46
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S52.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A grand, shining Coca-Cola bottle-shaped castle stands proudly under sunny skies, but a dark ominous shadow slowly creeps across it from one side as a calendar page flips to show a stylized '1980년대' backdrop. Setting: the grand Coca-Cola bottle-shaped castle silhouetted under a darkening sky.
+- 영상: Camera slowly pans as the dark shadow creeps further across the shining castle.
+
+
+### S53 엘리트 경영진들이 신성한 원조 레시피를 쓰레기통에 처박고, 전국적 폭동이 시작된다
+- 시간: 8:46-8:58
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S53.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A group of stickman actor characters wearing small necktie props stand around a boardroom table, one of them dramatically tossing an old, cherished recipe scroll into a trash bin with a dismissive sneer. In the background, tiny angry crowd silhouettes begin to gather outside the window. Setting: the grand Coca-Cola bottle-shaped castle silhouetted under a darkening sky.
+- 영상: Camera zooms in on the recipe scroll falling into the trash bin in slow motion.
+
+
+### S54 1985년 4월, 붉은 제국에 거대한 균열이 시작되고 펩시의 블라인드 테스트가 사람들의 입맛을 빼앗는다
+- 시간: 8:58-9:11
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S54.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A massive, imposing red castle made of Coca-Cola bottle shapes suddenly develops a huge jagged crack running down its center, glowing light leaking through the fissure. Korean text label: '1985년 4월'. In the foreground, several stickman actor figures wear blindfolds while taste-testing a rival blue drink. Setting: inside the same fancy 1980s corporate penthouse boardroom, a large window skyline view behind them.
+- 영상: Camera shakes slightly as the crack visibly widens across the castle.
+
+
+### S55 펜트하우스에 모인 엘리트 임원들이 경악하며 공포에 질린다
+- 시간: 9:11-9:22
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S55.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A group of stickman actor executives wearing small necktie props sit around a fancy penthouse table, eyes wide with shock while looking at a chart showing a rival blue soda logo overtaking them, sweat drops flying off their heads. Setting: inside the same fancy 1980s corporate penthouse boardroom, a large window skyline view behind them.
+- 영상: Camera pushes in on the shocked executives staring at the rival's chart.
+
+
+### S56 양복쟁이들이 겁에 질려 회사의 영혼을 통째로 뜯어고치는 미친 결정을 내린다
+- 시간: 9:22-9:33
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S56.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. The same stickman actor executives huddle together in panic, one slamming his fist on the table with a wild, unhinged expression while pointing at a paper labeled with a big red exclamation mark, everyone looking frantic and reckless. Setting: inside the same fancy 1980s corporate penthouse boardroom, a large window skyline view behind them.
+- 영상: Camera whip-pans around the panicked huddle of executives.
+
+
+### S57 펨버턴이 만들고 캔들러의 헛발질 속에서도 살아남았던 원조 배합 레시피가 쓰레기통에 처박힌다
+- 시간: 9:33-9:43
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S57.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A glowing, ancient-looking recipe scroll labeled with old worn handwriting is crushed and thrown into a trash bin by trembling stickman actor executive hands, its warm protective glow fading out as it falls. Setting: inside the same fancy 1980s corporate penthouse boardroom, a large window skyline view behind them.
+- 영상: Slow motion as the glowing recipe scroll falls and its light fades in the trash bin.
+
+
+### S58 '뉴 코크'라는 새로운 맛이 세상에 나오고 경영진이 자신들의 전략에 취해있다
+- 시간: 9:43-9:53
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S58.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A shiny new soda can labeled with bold modern lettering rises up triumphantly under spotlight. Korean text label: '뉴 코크'. stickman actor executives stand around it with confident, celebratory grins. Setting: on a spotlighted product-launch stage, the new soda can prominently displayed.
+- 영상: Camera tilts up following the new can rising into the spotlight.
+
+
+### S59 경영진이 샴페인을 터뜨리며 자축하지만 대중은 아직 반응하지 않았다
+- 시간: 9:53-10:03
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S59.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. stickman actor executives pop champagne bottles and cheer with confident, celebratory grins around the new soda can. In the background, a crowd of tiny stickman consumers stand with skeptical, unimpressed, arms-crossed expressions. Setting: on a spotlighted product-launch stage, the new soda can prominently displayed.
+- 영상: Camera pans from the celebrating executives to the skeptical crowd in the background.
+
+
+### S60 현실은 전국적인 폭동이었음을 보여준다
+- 시간: 10:03-10:10
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S60.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. The same confident stickman actor executives' champagne bottles suddenly fizzle out and go flat as a wave of angry red protest signs rises up in the background behind them, their celebratory grins turning to shock. Setting: on a spotlighted product-launch stage, the new soda can prominently displayed.
+- 영상: Quick cut as the champagne fizzles flat and the protest signs rise behind them.
+
+
+### S61 항의 전화가 빗발치고 시민들이 뉴 코크를 하수구에 쏟아버리며 시위를 벌인다
+- 시간: 10:10-10:24
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S61.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A vintage telephone switchboard office overwhelmed with dozens of blinking, ringing lights, the stickman actor representing an exhausted phone operator covers her ears with a distressed expression. Inset: a crowd of angry stickman actor protesters pour cans of soda into a street gutter with furious scowling expressions. Setting: inside a vintage telephone switchboard office, rows of blinking lights.
+- 영상: Camera rapidly pans from the overwhelmed switchboard to the protesters pouring soda into the gutter.
+
+
+### S62 고소장까지 등장하며 천재들의 계산이 산산조각날 위기에 처한다
+- 시간: 10:24-10:34
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S62.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A stack of legal lawsuit papers piles up on a desk in front of stickman actor executives, who watch in horror as a glowing calculator floating above them begins to crack, sparks flying. Setting: on a rain-slicked city street at night, a storm drain gutter in the foreground.
+- 영상: Camera zooms in on the calculator beginning to crack.
+
+
+### S63 계산기가 처참하게 산산조각난다
+- 시간: 10:34-10:36
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S63.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. The glowing calculator explodes into scattered broken pieces above the horrified stickman actor executives, sparks and fragments flying everywhere. Setting: on a rain-slicked city street at night, a storm drain gutter in the foreground.
+- 영상: Sharp zoom on the calculator shattering into pieces.
+
+
+### S64 코카콜라 수뇌부가 79일 만에 백기를 들고 굴욕적으로 항복한다
+- 시간: 10:36-10:46
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S64.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. stickman actor executives kneel with heads bowed low in exaggerated shame, one holding up a small white flag on a stick, surrounded by the angry crowd's shadows looming over them. Korean text label: '79일 만에 항복'. Setting: with the returned 'Coca-Cola Classic' glass bottle glistening under warm light.
+- 영상: Camera slowly circles the kneeling, defeated executives with the white flag.
+
+
+### S65 버려졌던 원조 레시피를 '코카콜라 클래식'이라는 이름으로 다시 가져온다
+- 시간: 10:46-10:55
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S65.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. The same glowing old recipe scroll is retrieved from the trash bin by trembling stickman actor hands, dusted off and re-labeled with a shiny new tag. Korean text label: '코카콜라 클래식'. Relieved yet embarrassed expressions on the executives nearby. Setting: with the returned 'Coca-Cola Classic' glass bottle glistening under warm light.
+- 영상: Camera pushes in as the recipe scroll is dusted off and re-labeled.
+
+
+### S66 기가 막힌 반전이 이 지점에서 터진다는 것을 예고한다
+- 시간: 10:55-10:59
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S66.jpg
+- 이미지프롬프트: Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Render the scene and background in clean 2D cartoon illustration style with smooth shading, warm rim lighting, vibrant storybook colors, no 3D render, no photorealism. Gentleman Rouge leans in toward the camera with a raised eyebrow and a knowing half-smile, one finger pointed at the viewer as if to say 'here comes the twist'. Setting: with the returned 'Coca-Cola Classic' glass bottle glistening under warm light.
+- 영상: Quick push-in on his knowing smile.
+
+
+### S67 대중의 억눌린 갈증이 화산처럼 폭발하며 클래식 코크가 역대급 판매량을 기록한다
+- 시간: 10:59-11:10
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S67.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A volcano-shaped eruption bursts upward, but instead of lava it shoots out glowing bottles of Coca-Cola Classic into the sky. Below, a huge cheering crowd of stickman actor consumers reach up joyfully to grab the falling bottles.
+- 영상: Camera tilts up rapidly following the volcanic eruption of bottles into the sky.
+
+
+### S68 펩시를 따돌린 건 전략이 아니라 최악의 오판 덕분이었음을 보여준다
+- 시간: 11:10-11:21
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A trophy shaped like a Coca-Cola bottle stands tall, but the pedestal beneath it is comically made of a crumpled, torn-up 'New Coke' failure report, showing the irony of the victory's true source.
+- 영상: Camera slowly zooms out to reveal the crumpled failure report forming the trophy's base.
+
+
+### S69 역사상 최악의 마케팅 실패가 최고의 노이즈 마케팅으로 둔갑했음을 보여준다
+- 시간: 11:21-11:32
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A large red 'FAILURE' stamp on a report flips over mid-air, transforming into a golden 'SUCCESS' stamp as confetti bursts around it, symbolizing the ironic reversal of fortune.
+- 영상: Quick flip transition as the stamp rotates from failure to success with confetti burst.
+
+
+### S70 이 모든 게 우연과 실수라는 장난기 많은 신 덕분이라 말한다
+- 시간: 11:32-11:37
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S70.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge shrugs playfully with both palms up, a knowing, mischievous smile, standing beside a small cartoonish glowing sprite figure representing 'luck and mistakes' floating and giggling beside him.
+- 영상: Camera slowly circles around him and the giggling luck sprite.
+
+
+### S71 긴 여정을 마무리하며 무일푼으로 죽어간 펨버턴을 다시 소개한다
+- 시간: 11:37-11:47
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S71.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A dim, faded silhouette of the stickman actor representing pharmacist John Pemberton stands alone in fading light, head down in quiet resignation. Korean text label beneath him: '존 스티스 펨버턴'.
+- 영상: Slow fade as his silhouette dims further into the darkness.
+
+
+### S72 독점 판권을 일 달러에 던져버린 캔들러도 함께 다시 소개된다
+- 시간: 11:47-11:57
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S72.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. A dim, faded silhouette of the stickman actor representing businessman Asa Candler stands beside Pemberton's silhouette, arms crossed with a regretful expression. Korean text label beneath him: '에이서 캔들러'.
+- 영상: Camera slowly pans across the two fading silhouettes.
+
+
+### S73 약국 알바생의 축복받은 손놀림이 이 모든 우연의 불씨에 기름을 부었음을 보여준다
+- 시간: 11:57-12:06
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S73.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Behind the two faded silhouettes, a small glowing silhouette of the stickman actor representing the pharmacy clerk flickers into view, his hand still frozen mid-turn on the fateful soda valve, a warm spark igniting from his fingertip.
+- 영상: Camera pans to reveal the clerk's glowing silhouette igniting a small spark.
+
+
+### S74 경리 직원의 낙서가 화려한 불꽃을 터뜨리며 우연들이 쌓여왔음을 보여준다
+- 시간: 12:06-12:16
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. The small doodled 'C C' logo from the ledger corner bursts into a spectacular firework display in the night sky, sparkling and cascading downward in golden light, symbolizing accumulated fortunate coincidences.
+- 영상: Camera tilts up to follow the firework burst spreading across the sky.
+
+
+### S75 코카콜라의 현재 시가총액 오백조 원이 거대한 황금빛 숫자로 떠오른다
+- 시간: 12:16-12:27
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A massive glowing golden number floats triumphantly in the sky above a small Coca-Cola bottle silhouette below it, emphasizing the astronomical scale. Korean text label: '시가총액 약 500조 원'.
+- 영상: Slow zoom-out revealing the tiny bottle dwarfed beneath the enormous glowing number.
+
+
+### S76 젠틀맨 루즈가 콜라 캔을 들어올려 건배를 제안하다가 멈칫한다
+- 시간: 12:27-12:36
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S76.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge elegantly raises a red Coca-Cola can toward the camera as if offering a toast, a sly smirk on his lips, then pauses mid-motion with a slightly conflicted expression, his grip loosening on the can. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: [영상클립 필요] Slow motion as his raised toast gesture pauses, the can beginning to slip from his fingers.
+
+
+### S77 캔이 바닥에 떨어지고 젠틀맨 루즈가 망토를 펄럭이며 어둠 속으로 사라진다
+- 시간: 12:36-12:48
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S77.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge releases his grip and lets the red can drop toward the ground, turning away with his gold-lined black cape flaring dramatically as he strides into darkness, an unreadable, cynical half-smile on his face. Setting: on the same recurring dark theatrical stage with deep purple velvet curtains, lit by a single dramatic spotlight from above.
+- 영상: [영상클립 필요] Camera holds on the can falling as he walks away, cape flaring, into the darkness.
+
+
+### S78 젠틀맨 루즈의 외알렌즈만 완전한 흑백 화면 속에서 번쩍인다
+- 시간: 12:48-12:58
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A completely black-and-white frame where only a single gold-rimmed monocle catches a sharp glint of light, everything else in deep shadow, an enigmatic closing expression.
+- 영상: Extreme slow zoom into the single glinting monocle in the darkness.
+
+
+### S79 젠틀맨 루즈가 다음 이야기(또 다른 거대 비즈니스)를 예고하며 손짓한다
+- 시간: 12:58-13:08
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S79.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge gestures mysteriously toward a swirling dark portal-like silhouette forming behind him, hinting at another hidden business story, an inviting yet ominous half-smile on his face.
+- 영상: Camera slowly pans toward the swirling dark portal silhouette behind him.
+
+
+### S80 젠틀맨 루즈가 구독 버튼을 가리키며 산책을 이어가자고 권한다
+- 시간: 13:08-13:17
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S80.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge points confidently toward a glowing red subscribe-button icon floating beside him, an inviting smile on his face.
+- 영상: Camera slowly pulls back as he gestures toward the glowing subscribe icon.
+
+
+### S81 젠틀맨 루즈가 마지막 인사를 건넨다
+- 시간: 13:17-13:20
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S81.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. Keep the exact visual design of the attached reference figure unchanged. Do not render any text, letters, logos, titles, captions, or watermarks anywhere in the image. Still render the full scene, background, and action described below in detail — do not draw a plain portrait. Gentleman Rouge gives a final polite tip of his top hat toward the camera in farewell, a knowing smile on his face, fading into the darkness.

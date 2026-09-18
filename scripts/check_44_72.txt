@@ -1,0 +1,10 @@
+===== S44 =====
+### S44 세계적으로 유명한 붉은 로고를 소개하며, 값비싼 전문가들이 밤새 디자인하는 모습을 상상한다
+- 시간: 7:17-7:32
+- 장면이미지: https://iwxpjnwktxpscoktfpyl.supabase.co/storage/v1/object/public/honghub-files/scene-images/1788409260000-econ10/S44.jpg
+- 이미지프롬프트: Disney/Pixar-style 2D cartoon illustration, smooth clean shading with warm rim lighting, vibrant saturated storybook color palette, polished family-animation look, no 3D render, no photorealism. A giant glowing red Coca-Cola script logo floats in the sky, recognized by tiny stickman crowds below pointing up at it. In a thought bubble beside it, exhausted stickman actor designers in suits work frantically at drafting tables under bright studio lamps. Setting: with a giant glowing red Coca-Cola script logo floating against a dark sky.
+- 영상: Camera pans from the glowing logo down to the thought bubble of exhausted designers.
+
+
+
+===== S72 =====
