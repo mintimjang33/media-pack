@@ -3348,6 +3348,85 @@ def sync_scene_times_to_13():
     return {"ok": True, "changed": changed, "total_blocks": len(blocks) - 1, "missing_in_cuts": missing}
 
 
+def _srt_timestamp(t: float) -> str:
+    ms = round(t * 1000)
+    h, ms = divmod(ms, 3_600_000)
+    m, ms = divmod(ms, 60_000)
+    s, ms = divmod(ms, 1000)
+    return f"{h:02d}:{m:02d}:{s:02d},{ms:03d}"
+
+
+def recover_deleted_coke_files():
+    """2026-09-18 실사고 복구 — HongHub의 새 "/cleanup"(안 쓰는 이미지 정리) 페이지가
+    plan_content만 검사하고 script_draft(나레이션·자막·렌더파일·캐릭터 이미지가 저장된 곳)는
+    전혀 검사하지 않는 버그가 있어서, 코카콜라 유닛의 선택된 나레이션(제미나이 재생성 Puck)과
+    선택된 자막(제미나이 재생성 자막)이 실수로 "고아 파일"로 오판되어 Storage에서 삭제됐다
+    (사용자가 직접 확인·삭제 버튼을 눌렀을 것으로 추정. 렌더파일·캐릭터 이미지 3장·카페인
+    유닛 파일들은 전부 사용자가 "필요 없다, 다시 할 것"이라고 확인해서 이 함수는 그 둘만
+    복구한다). 나레이션은 로컬에 있던 원본(제미나이 재생성(Puck).wav를 ffmpeg로 변환한
+    remotion/public/assets/narration.mp3, 799.98초로 DB 기록과 일치 확인됨)을 다시 올리고,
+    자막은 이미 검증된 econ_cuts.json의 subs[](227줄, 실제 SRT)에서 새로 SRT를 만들어 올린다
+    — 로컬 .srt 파일을 그대로 쓰지 않는 이유는 그 파일과 econ_cuts.json의 줄 수가 약간
+    달라서(245 vs 227) 어느 쪽이 최종본인지 불확실하고, econ_cuts.json 쪽은 이미 이번
+    세션에서 여러 차례 렌더링 결과로 검증된 버전이기 때문이다."""
+    working_path = REMOTION_DIR / "src" / "econ" / "econ_cuts.json"
+    narration_local = REMOTION_DIR / "public" / "assets" / "narration.mp3"
+    if not working_path.exists() or not narration_local.exists():
+        return {"error": "로컬 econ_cuts.json 또는 narration.mp3를 찾을 수 없습니다."}
+    data = json.loads(working_path.read_text(encoding="utf-8"))
+    subs = data.get("subs", [])
+    if not subs:
+        return {"error": "econ_cuts.json에 subs 배열이 비어 있습니다."}
+
+    srt_lines = []
+    for i, s in enumerate(subs, start=1):
+        srt_lines.append(str(i))
+        srt_lines.append(f"{_srt_timestamp(s['s'])} --> {_srt_timestamp(s['s'] + s['d'])}")
+        srt_lines.append(s.get("text", ""))
+        srt_lines.append("")
+    srt_bytes = "\n".join(srt_lines).encode("utf-8")
+
+    def upload(content: bytes, dest_name: str, content_type: str) -> str:
+        up = httpx.post(
+            f"{SUPA_URL}/storage/v1/object/honghub-files/{dest_name}",
+            headers={**supa_headers(), "Content-Type": content_type},
+            content=content, timeout=120,
+        )
+        up.raise_for_status()
+        return f"{SUPA_URL}/storage/v1/object/public/honghub-files/{dest_name}"
+
+    narration_bytes = narration_local.read_bytes()
+    new_narration_url = upload(narration_bytes, f"recovered-{ECON_UNIT_ID}-narration-puck.mp3", "audio/mpeg")
+    new_subtitle_url = upload(srt_bytes, f"recovered-{ECON_UNIT_ID}-subtitle.srt", "application/x-subrip")
+
+    r = httpx.get(f"{SUPA_URL}/rest/v1/hub_sites", params={"id": f"eq.{ECON_SITE_ID}", "select": "script_draft"},
+                  headers=supa_headers(), timeout=30)
+    r.raise_for_status()
+    rows = r.json()
+    if not rows:
+        return {"error": "사이트를 찾을 수 없습니다."}
+    sd = rows[0]["script_draft"]
+    unit = next((u for u in sd.get("units") or [] if u.get("id") == ECON_UNIT_ID), None)
+    if not unit:
+        return {"error": "콘텐츠(유닛)를 찾을 수 없습니다."}
+
+    updated = []
+    for n in unit.get("narrationUrls") or []:
+        if n.get("selected"):
+            n["url"] = new_narration_url
+            updated.append(("narration", n.get("label")))
+    for s in unit.get("subtitleUrls") or []:
+        if s.get("selected"):
+            s["url"] = new_subtitle_url
+            updated.append(("subtitle", s.get("label")))
+
+    patch = httpx.patch(f"{SUPA_URL}/rest/v1/hub_sites", params={"id": f"eq.{ECON_SITE_ID}"},
+                         headers={**supa_headers(), "Content-Type": "application/json"},
+                         content=json.dumps({"script_draft": sd}).encode("utf-8"), timeout=30)
+    patch.raise_for_status()
+    return {"ok": True, "updated": updated, "new_narration_url": new_narration_url, "new_subtitle_url": new_subtitle_url}
+
+
 # ── 2026-09-18 추가 — 컷/자막 표 편집기 ──────────────────────────────────
 # 사용자 지적: "저 텍스트로 직접 고치는걸 어떻게 찾아서 하냐고" — Remotion Studio
 # 타임라인이 드래그 편집을 지원하지 않는다는 게 실측으로 확인된 뒤(사용자가 기억하고 있던
@@ -3691,6 +3770,9 @@ class Handler(BaseHTTPRequestHandler):
             self._json(result, 400 if result.get("error") else 200)
         elif self.path == "/api/sync_scene_times_to_13":
             result = sync_scene_times_to_13()
+            self._json(result, 400 if result.get("error") else 200)
+        elif self.path == "/api/recover_deleted_coke_files":
+            result = recover_deleted_coke_files()
             self._json(result, 400 if result.get("error") else 200)
         elif self.path == "/api/save_remotion_working":
             result = save_remotion_working(data.get("cuts") or [], data.get("subs") or [])
