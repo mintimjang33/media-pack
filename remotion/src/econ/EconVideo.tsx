@@ -8,7 +8,7 @@
  * - 자막: 12번 SRT를 그대로 하단에 번인한다(faster-whisper 자동 생성본).
  */
 import React from "react";
-import {AbsoluteFill, Audio, Img, OffthreadVideo, Sequence, interpolate, staticFile, useCurrentFrame, useVideoConfig} from "remotion";
+import {AbsoluteFill, Audio, Img, OffthreadVideo, Sequence, Video, getRemotionEnvironment, interpolate, staticFile, useCurrentFrame, useVideoConfig} from "remotion";
 
 const resolveSrc = (p: string) => (p.startsWith("http") ? p : staticFile(p));
 
@@ -101,6 +101,24 @@ const Subtitle: React.FC<{text: string; style: CaptionStyle; scale: number}> = (
   );
 };
 
+/** 2026-09-18 추가 — 사용자 지적: "편집프로그램중 미리보기에서 저렇게 보이는 프로그램 봤어?"
+ * (Studio 미리보기에서 컷마다 1~2초 검은 화면/로딩이 뜨는 게 정상 편집기답지 않다는 지적, 맞는
+ * 말이었음). 원인은 OffthreadVideo가 프레임을 실시간으로 서버에 요청해 디코딩하는 방식이라
+ * 그런 것 — 렌더링(npx remotion render)에서는 프레임 정확도 때문에 반드시 필요하지만,
+ * Studio 미리보기(사람이 스크럽/재생하며 보는 용도)에서는 그 정확도가 필요 없고 브라우저 내장
+ * <video> 태그(Video 컴포넌트)가 스트리밍 버퍼링으로 훨씬 매끄럽다. getRemotionEnvironment().
+ * isRendering으로 실제 렌더링 중인지 구분해서, 렌더링 때만 OffthreadVideo(정확)를 쓰고
+ * 그 외(Studio 미리보기)에는 Video(매끄러움)를 쓴다 — 최종 산출물 품질은 그대로 유지된다.
+ */
+const ClipVideo: React.FC<{src: string; trimBefore: number; trimAfter: number}> = ({src, trimBefore, trimAfter}) => {
+  const {isRendering} = getRemotionEnvironment();
+  const commonStyle: React.CSSProperties = {width: "100%", height: "100%", objectFit: "cover"};
+  if (isRendering) {
+    return <OffthreadVideo src={src} muted trimBefore={trimBefore} trimAfter={trimAfter} style={commonStyle} />;
+  }
+  return <Video src={src} muted trimBefore={trimBefore} trimAfter={trimAfter} style={commonStyle} />;
+};
+
 export const EconVideo: React.FC<EconVideoProps> = ({cuts, subs, narrationUrl, fps: fpsProp, captionStyle}) => {
   const F = fpsProp ?? 30;
   const {width} = useVideoConfig();
@@ -115,12 +133,10 @@ export const EconVideo: React.FC<EconVideoProps> = ({cuts, subs, narrationUrl, f
           <Sequence key={i} from={start} durationInFrames={dur} layout="none">
             {c.clip ? (
               <AbsoluteFill style={{overflow: "hidden", backgroundColor: "#000"}}>
-                <OffthreadVideo
+                <ClipVideo
                   src={resolveSrc(c.clip)}
-                  muted
                   trimBefore={Math.round((c.trimStart ?? 0) * F)}
                   trimAfter={Math.round(((c.trimStart ?? 0) + c.d) * F)}
-                  style={{width: "100%", height: "100%", objectFit: "cover"}}
                 />
               </AbsoluteFill>
             ) : c.image ? (
