@@ -2764,6 +2764,15 @@ REMOTION_HTML = """<!doctype html>
     <div class="sub" style="margin:8px 0 0">지금까지 econ_cuts.json에 직접 고친 타이밍·자막이 전부 사라지고, econ_cuts.original.json 상태로 되돌아갑니다. 평소 편집은 <code>remotion/src/econ/econ_cuts.json</code>을 직접 여세요(DB 호출 없이 그냥 텍스트 편집).</div>
     <div id="revertStatus" class="status"></div>
   </div>
+  <!-- 2026-09-18 추가 — 사용자 지적: "니가 처음부터 이렇게 셋팅해둔거야"(econ_cuts.json 컷
+       타이밍이 13번 DB 기록과 안 맞음 발견) → "14번의 값으로 모두 변경" 지시. 13번↔14번
+       불일치를 발견했을 때 반대 방향(14→13)으로 되돌리는 버튼 — refreshOriginal(13→14)의
+       거울상. -->
+  <div class="card" style="margin-top:10px">
+    <button onclick="syncTimesTo13(this)" style="background:#573">⏱ 14번 타이밍을 13번에 역반영</button>
+    <div class="sub" style="margin:8px 0 0">지금 작업중 파일(econ_cuts.json)의 컷 시작/길이가 맞는 값이라고 보고, 13번 DB의 scenePrompts 안 "- 시간:" 기록만 그 값으로 고칩니다(대본·이미지프롬프트·URL 등 다른 내용은 안 건드림). 13번과 14번의 타이밍이 서로 달라진 걸 발견했을 때 누르세요.</div>
+    <div id="syncTimesStatus" class="status"></div>
+  </div>
   <!-- 2026-09-14 추가 — 사용자 요청: "렌더링 화면에 서버재시작 버튼을 넣어놔줘". 대시보드
        서버(status_dashboard.py) 코드를 고친 뒤 반영하려면 재시작이 필요한데, 지금까지는
        메인 컨트롤 화면까지 가야만 재시작 버튼이 있었다 — 여기서도 바로 재시작할 수 있게
@@ -3108,6 +3117,20 @@ async function revertToOriginal(btn){
   }catch(e){ statusEl.textContent = '❌ 요청 실패: ' + e; }
   btn.disabled = false; btn.textContent = label;
 }
+async function syncTimesTo13(btn){
+  if(!confirm('작업중 파일(econ_cuts.json)의 컷 타이밍을 13번 DB의 scenePrompts "- 시간:" 기록에 덮어씁니다(다른 내용은 안 건드림). 계속할까요?')) return;
+  const statusEl = document.getElementById('syncTimesStatus');
+  const label = btn.textContent;
+  btn.disabled = true; btn.textContent = '반영 중...';
+  statusEl.textContent = '';
+  try{
+    const r = await fetch('/api/sync_scene_times_to_13', {method:'POST'});
+    const d = await r.json();
+    if(d.error){ statusEl.textContent = '❌ ' + d.error; }
+    else { statusEl.textContent = `✅ ${d.changed}/${d.total_blocks}개 컷의 시간 기록을 13번 DB에 반영했습니다.` + (d.missing_in_cuts.length ? ` ⚠️ econ_cuts.json에 없는 id: ${d.missing_in_cuts.join(', ')}` : ''); }
+  }catch(e){ statusEl.textContent = '❌ 요청 실패: ' + e; }
+  btn.disabled = false; btn.textContent = label;
+}
 async function restartServer(btn){
   if(!confirm('대시보드 서버를 재시작할까요? 잠시 접속이 끊겼다가 몇 초 후 자동으로 돌아옵니다.')) return;
   const statusEl = document.getElementById('restartStatus');
@@ -3264,6 +3287,65 @@ def revert_remotion_to_original():
         return {"error": "원본 파일(econ_cuts.original.json)이 아직 없습니다 — 먼저 '13번에서 원본 새로고침'을 눌러주세요."}
     working_path.write_text(original_path.read_text(encoding="utf-8"), encoding="utf-8")
     return {"ok": True}
+
+
+def sync_scene_times_to_13():
+    """"⏱ 14번 타이밍을 13번에 역반영" — 2026-09-18 추가. 사용자가 econ_cuts.json(작업중
+    파일)의 컷 타이밍을 직접 손으로 고친 뒤(예: S01을 5.5초 대신 4.0초로), 13번 DB의
+    scenePrompts에 적힌 "- 시간:" 기록은 옛날 값 그대로 남아있어서 서로 안 맞는 게 발견됨
+    ("14번의 값으로 모두 변경" 사용자 지시). refresh_remotion_original()의 정반대 방향 —
+    econ_cuts.json이 지금 맞는 값(source of truth)이라고 보고, 그 값을 13번 DB의
+    scenePrompts 텍스트 안 "- 시간:" 줄에만 반영한다. 다른 필드(대본/이미지프롬프트/URL 등)는
+    절대 건드리지 않는다. 이 함수도 refresh_remotion_original과 마찬가지로 이미 이 서버가
+    내부적으로 들고 있는 Supabase 자격증명을 그대로 재사용한다(직접 만든 별도 스크립트로
+    빼서 credential을 새로 다루려 하지 않는다)."""
+    working_path = REMOTION_DIR / "src" / "econ" / "econ_cuts.json"
+    if not working_path.exists():
+        return {"error": "작업중 파일(econ_cuts.json)이 아직 없습니다."}
+    cuts = json.loads(working_path.read_text(encoding="utf-8")).get("cuts", [])
+    by_id = {c["id"]: c for c in cuts}
+
+    def fmt(t):
+        m = int(t // 60)
+        s = t - m * 60
+        if abs(s - round(s)) < 1e-9:
+            return f"{m}:{int(round(s)):02d}"
+        return f"{m}:{s:04.1f}"
+
+    r = httpx.get(f"{SUPA_URL}/rest/v1/hub_sites", params={"id": f"eq.{ECON_SITE_ID}", "select": "script_draft"},
+                  headers=supa_headers(), timeout=30)
+    r.raise_for_status()
+    rows = r.json()
+    if not rows:
+        return {"error": "사이트를 찾을 수 없습니다."}
+    sd = rows[0]["script_draft"]
+    unit = next((u for u in sd.get("units") or [] if u.get("id") == ECON_UNIT_ID), None)
+    if not unit:
+        return {"error": "콘텐츠(유닛)를 찾을 수 없습니다."}
+    sp = unit.get("scenePrompts") or ""
+
+    blocks = re.split(r"(?=^### )", sp, flags=re.MULTILINE)
+    changed = 0
+    missing = []
+    for i in range(1, len(blocks)):
+        m_id = re.match(r"### (\S+)", blocks[i])
+        cid = m_id.group(1) if m_id else None
+        c = by_id.get(cid)
+        if not c:
+            missing.append(cid)
+            continue
+        new_time = fmt(c["s"]) + "-" + fmt(c["s"] + c["d"])
+        new_block, n = re.subn(r"(- 시간:\s*)\S+", lambda mm: mm.group(1) + new_time, blocks[i], count=1)
+        if n == 1 and new_block != blocks[i]:
+            changed += 1
+        blocks[i] = new_block
+    unit["scenePrompts"] = "".join(blocks)
+
+    patch = httpx.patch(f"{SUPA_URL}/rest/v1/hub_sites", params={"id": f"eq.{ECON_SITE_ID}"},
+                         headers={**supa_headers(), "Content-Type": "application/json"},
+                         content=json.dumps({"script_draft": sd}).encode("utf-8"), timeout=30)
+    patch.raise_for_status()
+    return {"ok": True, "changed": changed, "total_blocks": len(blocks) - 1, "missing_in_cuts": missing}
 
 
 # ── 2026-09-18 추가 — 컷/자막 표 편집기 ──────────────────────────────────
@@ -3606,6 +3688,9 @@ class Handler(BaseHTTPRequestHandler):
             self._json(result, 400 if result.get("error") else 200)
         elif self.path == "/api/revert_remotion_to_original":
             result = revert_remotion_to_original()
+            self._json(result, 400 if result.get("error") else 200)
+        elif self.path == "/api/sync_scene_times_to_13":
+            result = sync_scene_times_to_13()
             self._json(result, 400 if result.get("error") else 200)
         elif self.path == "/api/save_remotion_working":
             result = save_remotion_working(data.get("cuts") or [], data.get("subs") or [])
